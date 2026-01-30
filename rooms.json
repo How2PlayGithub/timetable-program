@@ -1,0 +1,10 @@
+{
+    "R001": {
+        "capacity": 28,
+        "type": "General"
+    },
+    "L001": {
+        "capacity": 28,
+        "type": "Lab"
+    }
+}
