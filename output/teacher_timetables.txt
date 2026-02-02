@@ -6,32 +6,32 @@ INSTRUCTOR: Mr Malcolm McLean
 | Period   | Mon           | Tue           | Wed           | Thu           | Fri           |
 +==========+===============+===============+===============+===============+===============+
 | P1       | Further Maths | Further Maths | Further Maths | Further Maths | Further Maths |
-|          | (D130)        | (D216)        | (D217)        | (D205)        | (D130)        |
-|          | Students: 6   | Students: 5   | Students: 7   | Students: 10  | Students: 6   |
+|          | (D203)        | (D205)        | (D205)        | (D131)        | (D204)        |
+|          | Students: 8   | Students: 15  | Students: 15  | Students: 9   | Students: 7   |
 +----------+---------------+---------------+---------------+---------------+---------------+
 | P2       | Further Maths | ---           | Further Maths | Further Maths | Further Maths |
-|          | (D216)        |               | (D133)        | (D130)        | (D205)        |
-|          | Students: 5   |               | Students: 17  | Students: 6   | Students: 10  |
+|          | (D205)        |               | (D204)        | (D129)        | (D129)        |
+|          | Students: 15  |               | Students: 7   | Students: 10  | Students: 10  |
 +----------+---------------+---------------+---------------+---------------+---------------+
 | P3       | Further Maths | Further Maths | Further Maths | Further Maths | Further Maths |
-|          | (D129)        | (D130)        | (D130)        | (D207)        | (D207)        |
-|          | Students: 12  | Students: 6   | Students: 6   | Students: 14  | Students: 14  |
+|          | (D204)        | (D131)        | (D131)        | (D205)        | (D131)        |
+|          | Students: 7   | Students: 9   | Students: 9   | Students: 15  | Students: 9   |
 +----------+---------------+---------------+---------------+---------------+---------------+
 | P4       | Further Maths | Further Maths | Further Maths | Further Maths | Further Maths |
-|          | (D205)        | (D133)        | (D216)        | (D216)        | (D217)        |
-|          | Students: 10  | Students: 17  | Students: 5   | Students: 5   | Students: 7   |
+|          | (D131)        | (D128)        | (D129)        | (D204)        | (D128)        |
+|          | Students: 9   | Students: 19  | Students: 10  | Students: 7   | Students: 19  |
 +----------+---------------+---------------+---------------+---------------+---------------+
 | P5       | Further Maths | Further Maths | Further Maths | Further Maths | Further Maths |
-|          | (D133)        | (D217)        | (D205)        | (D129)        | (D216)        |
-|          | Students: 17  | Students: 7   | Students: 10  | Students: 12  | Students: 5   |
+|          | (D129)        | (D129)        | (D128)        | (D206)        | (D205)        |
+|          | Students: 10  | Students: 10  | Students: 19  | Students: 14  | Students: 15  |
 +----------+---------------+---------------+---------------+---------------+---------------+
 | P6       | Further Maths | Further Maths | Further Maths | Further Maths | ---           |
-|          | (D128)        | (D205)        | (D128)        | (D128)        |               |
-|          | Students: 22  | Students: 10  | Students: 22  | Students: 22  |               |
+|          | (D207)        | (D204)        | (D207)        | (D207)        |               |
+|          | Students: 24  | Students: 7   | Students: 24  | Students: 24  |               |
 +----------+---------------+---------------+---------------+---------------+---------------+
 | P7       | -             | Further Maths | -             | -             | -             |
-|          |               | (D128)        |               |               |               |
-|          |               | Students: 22  |               |               |               |
+|          |               | (D207)        |               |               |               |
+|          |               | Students: 24  |               |               |               |
 +----------+---------------+---------------+---------------+---------------+---------------+
 
 
@@ -42,32 +42,32 @@ INSTRUCTOR: Mr. Alex Marshall
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D206)       | (D206)       | (D203)       | (D205)       | (D131)       |
-|          | Students: 10 | Students: 6  | Students: 16 | Students: 12 | Students: 19 |
+|          | (D130)       | (D130)       | (D206)       | (D128)       | (D130)       |
+|          | Students: 7  | Students: 7  | Students: 7  | Students: 8  | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Economics    | ---          | Economics    | Economics    | Economics    |
-|          | (D205)       |              | (D131)       | (D206)       | (D203)       |
-|          | Students: 16 |              | Students: 6  | Students: 10 | Students: 16 |
+|          | (D132)       |              | (D132)       | (D132)       | (D206)       |
+|          | Students: 16 |              | Students: 16 | Students: 16 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D131)       | (D203)       | (D205)       | (D206)       | (D206)       |
-|          | Students: 19 | Students: 16 | Students: 12 | Students: 6  | Students: 10 |
+|          | (D206)       | (D207)       | (D130)       | (D207)       | (D215)       |
+|          | Students: 7  | Students: 14 | Students: 7  | Students: 14 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D205)       | (D205)       | (D205)       | (D205)       | (D206)       |
-|          | Students: 12 | Students: 16 | Students: 16 | Students: 16 | Students: 8  |
+|          | (D207)       | (D203)       | (D215)       | (D204)       | (D207)       |
+|          | Students: 14 | Students: 9  | Students: 12 | Students: 10 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D203)       | (D205)       | (D217)       | (D203)       | (D205)       |
-|          | Students: 16 | Students: 12 | Students: 8  | Students: 16 | Students: 12 |
+|          | (D204)       | (D132)       | (D204)       | (D206)       | (D201)       |
+|          | Students: 10 | Students: 16 | Students: 10 | Students: 7  | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Economics    | Economics    | Economics    | Economics    | ---          |
-|          | (D206)       | (D206)       | (D206)       | (D206)       |              |
-|          | Students: 28 | Students: 10 | Students: 28 | Students: 28 |              |
+|          | (D110)       | (D206)       | (D110)       | (D110)       |              |
+|          | Students: 23 | Students: 7  | Students: 23 | Students: 23 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Economics    | -            | -            | -            |
-|          |              | (D206)       |              |              |              |
-|          |              | Students: 28 |              |              |              |
+|          |              | (D110)       |              |              |              |
+|          |              | Students: 23 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -79,31 +79,31 @@ INSTRUCTOR: Mr. Andrew Strachan
 +==========+==============+==============+==============+==============+==============+
 | P1       | Painting     | Painting     | Painting     | Painting     | Painting     |
 |          | (D109)       | (D109)       | (D109)       | (D109)       | (D109)       |
-|          | Students: 13 | Students: 9  | Students: 13 | Students: 10 | Students: 6  |
+|          | Students: 8  | Students: 10 | Students: 7  | Students: 12 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Painting     | ---          | Painting     | Painting     | Painting     |
 |          | (D109)       |              | (D109)       | (D109)       | (D109)       |
-|          | Students: 9  |              | Students: 17 | Students: 17 | Students: 17 |
+|          | Students: 9  |              | Students: 9  | Students: 10 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Painting     | Painting     | Painting     | Painting     | Painting     |
 |          | (D109)       | (D109)       | (D109)       | (D109)       | (D109)       |
-|          | Students: 9  | Students: 6  | Students: 9  | Students: 6  | Students: 10 |
+|          | Students: 10 | Students: 10 | Students: 10 | Students: 8  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Painting     | Painting     | Painting     | Painting     | Painting     |
 |          | (D109)       | (D109)       | (D109)       | (D109)       | (D109)       |
-|          | Students: 6  | Students: 13 | Students: 10 | Students: 9  | Students: 9  |
+|          | Students: 9  | Students: 11 | Students: 8  | Students: 10 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Painting     | Painting     | Painting     | Painting     | Painting     |
 |          | (D109)       | (D109)       | (D109)       | (D109)       | (D109)       |
-|          | Students: 17 | Students: 10 | Students: 6  | Students: 13 | Students: 13 |
+|          | Students: 10 | Students: 7  | Students: 10 | Students: 7  | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Painting     | Painting     | Painting     | Painting     | ---          |
 |          | (D109)       | (D109)       | (D109)       | (D109)       |              |
-|          | Students: 11 | Students: 17 | Students: 11 | Students: 11 |              |
+|          | Students: 13 | Students: 9  | Students: 13 | Students: 13 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Painting     | -            | -            | -            |
 |          |              | (D109)       |              |              |              |
-|          |              | Students: 11 |              |              |              |
+|          |              | Students: 13 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -115,31 +115,31 @@ INSTRUCTOR: Mr. Andries Van Tonder
 +==========+==================+==================+==================+==================+==================+
 | P1       | Computer Science | Computer Science | Computer Science | Computer Science | Computer Science |
 |          | (D203)           | (D203)           | (D203)           | (D203)           | (D203)           |
-|          | Students: 5      | Students: 11     | Students: 5      | Students: 11     | Students: 8      |
+|          | Students: 13     | Students: 9      | Students: 13     | Students: 9      | Students: 9      |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P2       | Computer Science | ---              | Computer Science | Computer Science | Computer Science |
 |          | (D203)           |                  | (D203)           | (D203)           | (D203)           |
-|          | Students: 11     |                  | Students: 10     | Students: 8      | Students: 7      |
+|          | Students: 16     |                  | Students: 9      | Students: 13     | Students: 9      |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P3       | Computer Science | Computer Science | Computer Science | Computer Science | Computer Science |
 |          | (D203)           | (D203)           | (D203)           | (D203)           | (D203)           |
-|          | Students: 8      | Students: 8      | Students: 8      | Students: 10     | Students: 11     |
+|          | Students: 14     | Students: 10     | Students: 17     | Students: 10     | Students: 13     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P4       | Computer Science | Computer Science | Computer Science | Computer Science | Computer Science |
 |          | (D203)           | (D203)           | (D203)           | (D203)           | (D203)           |
-|          | Students: 8      | Students: 8      | Students: 7      | Students: 7      | Students: 8      |
+|          | Students: 9      | Students: 13     | Students: 10     | Students: 17     | Students: 14     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P5       | Computer Science | Computer Science | Computer Science | Computer Science | Computer Science |
 |          | (D203)           | (D203)           | (D203)           | (D203)           | (D203)           |
-|          | Students: 10     | Students: 8      | Students: 11     | Students: 8      | Students: 5      |
+|          | Students: 10     | Students: 16     | Students: 14     | Students: 14     | Students: 10     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P6       | Computer Science | Computer Science | Computer Science | Computer Science | ---              |
 |          | (D203)           | (D203)           | (D203)           | (D203)           |                  |
-|          | Students: 20     | Students: 7      | Students: 20     | Students: 20     |                  |
+|          | Students: 13     | Students: 9      | Students: 13     | Students: 13     |                  |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P7       | -                | Computer Science | -                | -                | -                |
 |          |                  | (D203)           |                  |                  |                  |
-|          |                  | Students: 20     |                  |                  |                  |
+|          |                  | Students: 13     |                  |                  |                  |
 +----------+------------------+------------------+------------------+------------------+------------------+
 
 
@@ -151,31 +151,31 @@ INSTRUCTOR: Mr. Ben Prestidge
 +==========+==============+==============+==============+==============+==============+
 | P1       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 21 | Students: 10 | Students: 12 | Students: 13 | Students: 13 |
+|          | Students: 14 | Students: 11 | Students: 12 | Students: 5  | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Language     | ---          | Language     | Language     | Language     |
 |          | (D133)       |              | (D133)       | (D133)       | (D133)       |
-|          | Students: 8  |              | Students: 8  | Students: 12 | Students: 12 |
+|          | Students: 18 |              | Students: 9  | Students: 11 | Students: 5  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 14 | Students: 12 | Students: 13 | Students: 11 | Students: 13 |
+|          | Students: 11 | Students: 15 | Students: 5  | Students: 14 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 13 | Students: 12 | Students: 14 | Students: 12 | Students: 14 |
+|          | Students: 5  | Students: 9  | Students: 11 | Students: 13 | Students: 18 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 12 | Students: 8  | Students: 12 | Students: 14 | Students: 10 |
+|          | Students: 10 | Students: 14 | Students: 18 | Students: 13 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Language     | Language     | Language     | Language     | ---          |
 |          | (D133)       | (D133)       | (D133)       | (D133)       |              |
-|          | Students: 23 | Students: 10 | Students: 23 | Students: 23 |              |
+|          | Students: 28 | Students: 5  | Students: 28 | Students: 28 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Language     | -            | -            | -            |
 |          |              | (D133)       |              |              |              |
-|          |              | Students: 23 |              |              |              |
+|          |              | Students: 28 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -187,31 +187,31 @@ INSTRUCTOR: Mr. Benny Van der Griend
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 4  | Students: 8  | Students: 11 | Students: 8  | Students: 4  |
+|          | Students: 6  | Students: 9  | Students: 16 | Students: 9  | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 8  |              | Students: 4  | Students: 8  | Students: 11 |
+|          | Students: 8  |              | Students: 9  | Students: 9  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 11 | Students: 8  | Students: 11 | Students: 8  |
+|          | Students: 9  | Students: 9  | Students: 6  | Students: 16 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 4  | Students: 8  | Students: 4  | Students: 15 |
+|          | Students: 9  | Students: 15 | Students: 16 | Students: 16 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 8  | Students: 9  | Students: 8  | Students: 8  | Students: 8  |
+|          | Students: 9  | Students: 16 | Students: 9  | Students: 6  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 18 | Students: 8  | Students: 18 | Students: 18 |              |
+|          | Students: 28 | Students: 6  | Students: 28 | Students: 28 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 18 |              |              |              |
+|          |              | Students: 28 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -223,31 +223,31 @@ INSTRUCTOR: Mr. Darell Naguit
 +==========+==============+==============+==============+==============+==============+
 | P1       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 12 | Students: 12 | Students: 4  | Students: 9  | Students: 6  |
+|          | Students: 12 | Students: 9  | Students: 9  | Students: 8  | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Language     | ---          | Language     | Language     | Language     |
 |          | (D133)       |              | (D133)       | (D133)       | (D133)       |
-|          | Students: 16 |              | Students: 8  | Students: 4  | Students: 12 |
+|          | Students: 14 |              | Students: 8  | Students: 9  | Students: 4  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 13 | Students: 4  | Students: 6  | Students: 12 | Students: 8  |
+|          | Students: 9  | Students: 4  | Students: 14 | Students: 7  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 4  | Students: 15 | Students: 12 | Students: 6  | Students: 9  |
+|          | Students: 11 | Students: 9  | Students: 8  | Students: 4  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 9  | Students: 9  | Students: 9  | Students: 16 | Students: 9  |
+|          | Students: 8  | Students: 14 | Students: 12 | Students: 12 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Language     | Language     | Language     | Language     | ---          |
 |          | (D133)       | (D133)       | (D133)       | (D133)       |              |
-|          | Students: 22 | Students: 12 | Students: 22 | Students: 22 |              |
+|          | Students: 14 | Students: 12 | Students: 14 | Students: 14 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Language     | -            | -            | -            |
 |          |              | (D133)       |              |              |              |
-|          |              | Students: 22 |              |              |              |
+|          |              | Students: 14 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -258,32 +258,32 @@ INSTRUCTOR: Mr. Ed Coup
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D124)       | (D124)       | (D124)       | (D123)       | (D124)       |
-|          | Students: 11 | Students: 11 | Students: 6  | Students: 14 | Students: 21 |
+|          | (D124)       | (D123)       | (D124)       | (D123)       | (D123)       |
+|          | Students: 14 | Students: 14 | Students: 14 | Students: 14 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Chemistry    | ---          | Chemistry    | Chemistry    | Chemistry    |
-|          | (D124)       |              | (D124)       | (D124)       | (D124)       |
-|          | Students: 21 |              | Students: 21 | Students: 6  | Students: 11 |
+|          | (D123)       |              | (D124)       | (D123)       | (D124)       |
+|          | Students: 6  |              | Students: 9  | Students: 6  | Students: 3  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D124)       | (D124)       | (D124)       | (D123)       |
-|          | Students: 12 | Students: 6  | Students: 12 | Students: 21 | Students: 11 |
+|          | (D124)       | (D124)       | (D124)       | (D123)       | (D124)       |
+|          | Students: 10 | Students: 9  | Students: 11 | Students: 12 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D124)       | (D123)       | (D124)       | (D123)       | (D124)       |
-|          | Students: 12 | Students: 14 | Students: 11 | Students: 10 | Students: 6  |
+|          | (D123)       | (D124)       | (D123)       | (D124)       | (D124)       |
+|          | Students: 14 | Students: 11 | Students: 14 | Students: 14 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D123)       | (D123)       | (D123)       | (D123)       |
-|          | Students: 9  | Students: 12 | Students: 12 | Students: 12 | Students: 12 |
+|          | (D124)       | (D124)       | (D123)       | (D124)       | (D124)       |
+|          | Students: 9  | Students: 14 | Students: 6  | Students: 9  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | ---          |
-|          | (D123)       | (D124)       | (D123)       | (D123)       |              |
-|          | Students: 13 | Students: 21 | Students: 13 | Students: 13 |              |
+|          | (D124)       | (D123)       | (D124)       | (D124)       |              |
+|          | Students: 23 | Students: 6  | Students: 23 | Students: 23 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Chemistry    | -            | -            | -            |
-|          |              | (D123)       |              |              |              |
-|          |              | Students: 13 |              |              |              |
+|          |              | (D124)       |              |              |              |
+|          |              | Students: 23 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -295,31 +295,31 @@ INSTRUCTOR: Mr. Eric Li
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 9  | Students: 13 | Students: 14 | Students: 14 | Students: 11 |
+|          | Students: 18 | Students: 12 | Students: 14 | Students: 9  | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 14 |              | Students: 10 | Students: 13 | Students: 13 |
+|          | Students: 9  |              | Students: 9  | Students: 15 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 13 | Students: 9  | Students: 14 | Students: 14 | Students: 14 |
+|          | Students: 9  | Students: 15 | Students: 12 | Students: 14 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 14 | Students: 13 | Students: 10 | Students: 10 |
+|          | Students: 12 | Students: 9  | Students: 13 | Students: 9  | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 14 | Students: 14 | Students: 9  | Students: 12 | Students: 7  |
+|          | Students: 13 | Students: 6  | Students: 6  | Students: 13 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 16 | Students: 14 | Students: 16 | Students: 16 |              |
+|          | Students: 21 | Students: 10 | Students: 21 | Students: 21 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 16 |              |              |              |
+|          |              | Students: 21 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -331,31 +331,31 @@ INSTRUCTOR: Mr. Hamish Hay
 +==========+==============+==============+==============+==============+==============+
 | P1       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 10 | Students: 12 | Students: 11 | Students: 7  | Students: 8  |
+|          | Students: 14 | Students: 13 | Students: 7  | Students: 8  | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Language     | ---          | Language     | Language     | Language     |
 |          | (D133)       |              | (D133)       | (D133)       | (D133)       |
-|          | Students: 5  |              | Students: 5  | Students: 12 | Students: 9  |
+|          | Students: 13 |              | Students: 14 | Students: 11 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 11 | Students: 5  | Students: 11 | Students: 11 | Students: 9  |
+|          | Students: 8  | Students: 11 | Students: 11 | Students: 14 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 9  | Students: 11 | Students: 9  | Students: 7  | Students: 12 |
+|          | Students: 12 | Students: 4  | Students: 13 | Students: 13 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 9  | Students: 9  | Students: 11 | Students: 5  | Students: 5  |
+|          | Students: 11 | Students: 8  | Students: 11 | Students: 10 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Language     | Language     | Language     | Language     | ---          |
 |          | (D133)       | (D133)       | (D133)       | (D133)       |              |
-|          | Students: 25 | Students: 9  | Students: 25 | Students: 25 |              |
+|          | Students: 22 | Students: 14 | Students: 22 | Students: 22 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Language     | -            | -            | -            |
 |          |              | (D133)       |              |              |              |
-|          |              | Students: 25 |              |              |              |
+|          |              | Students: 22 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -366,32 +366,32 @@ INSTRUCTOR: Mr. Harry Bell
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D124)       | (D123)       | (D123)       | (D123)       | (D124)       |
-|          | Students: 12 | Students: 17 | Students: 12 | Students: 7  | Students: 12 |
+|          | (D123)       | (D123)       | (D123)       | (D123)       | (D123)       |
+|          | Students: 10 | Students: 10 | Students: 14 | Students: 10 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Chemistry    | ---          | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       |              | (D123)       | (D123)       | (D123)       |
-|          | Students: 17 |              | Students: 7  | Students: 14 | Students: 10 |
+|          | (D123)       |              | (D124)       | (D124)       | (D124)       |
+|          | Students: 14 |              | Students: 15 | Students: 7  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D124)       | (D124)       | (D124)       | (D123)       |
-|          | Students: 14 | Students: 7  | Students: 7  | Students: 12 | Students: 7  |
+|          | (D124)       | (D123)       | (D123)       | (D123)       | (D123)       |
+|          | Students: 15 | Students: 14 | Students: 11 | Students: 10 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D124)       | (D124)       | (D123)       | (D124)       | (D123)       |
-|          | Students: 11 | Students: 11 | Students: 10 | Students: 7  | Students: 14 |
+|          | (D123)       | (D123)       | (D123)       | (D124)       | (D123)       |
+|          | Students: 10 | Students: 10 | Students: 6  | Students: 15 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D123)       | (D123)       | (D124)       | (D124)       |
-|          | Students: 8  | Students: 14 | Students: 14 | Students: 11 | Students: 7  |
+|          | (D124)       | (D124)       | (D123)       | (D123)       | (D124)       |
+|          | Students: 7  | Students: 15 | Students: 10 | Students: 14 | Students: 15 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | ---          |
-|          | (D124)       | (D123)       | (D124)       | (D124)       |              |
-|          | Students: 25 | Students: 12 | Students: 25 | Students: 25 |              |
+|          | (D123)       | (D124)       | (D123)       | (D123)       |              |
+|          | Students: 21 | Students: 9  | Students: 21 | Students: 21 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Chemistry    | -            | -            | -            |
-|          |              | (D124)       |              |              |              |
-|          |              | Students: 25 |              |              |              |
+|          |              | (D123)       |              |              |              |
+|          |              | Students: 21 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -403,31 +403,31 @@ INSTRUCTOR: Mr. John Liu
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 10 | Students: 10 | Students: 8  | Students: 10 | Students: 10 |
+|          | Students: 8  | Students: 13 | Students: 9  | Students: 7  | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 18 |              | Students: 10 | Students: 14 | Students: 12 |
+|          | Students: 7  |              | Students: 11 | Students: 8  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 20 | Students: 12 | Students: 10 | Students: 18 | Students: 12 |
+|          | Students: 13 | Students: 8  | Students: 9  | Students: 13 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 12 | Students: 10 | Students: 10 | Students: 12 | Students: 20 |
+|          | Students: 9  | Students: 10 | Students: 5  | Students: 9  | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 12 | Students: 10 | Students: 13 | Students: 20 | Students: 6  |
+|          | Students: 10 | Students: 9  | Students: 7  | Students: 11 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 13 | Students: 12 | Students: 13 | Students: 13 |              |
+|          | Students: 22 | Students: 7  | Students: 22 | Students: 22 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 13 |              |              |              |
+|          |              | Students: 22 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -439,31 +439,31 @@ INSTRUCTOR: Mr. Karl Arnesen
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 10 | Students: 7  | Students: 11 | Students: 10 | Students: 10 |
+|          | Students: 12 | Students: 14 | Students: 15 | Students: 2  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 5  |              | Students: 10 | Students: 13 | Students: 8  |
+|          | Students: 14 |              | Students: 13 | Students: 12 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 6  | Students: 13 | Students: 11 | Students: 10 | Students: 7  |
+|          | Students: 7  | Students: 13 | Students: 14 | Students: 14 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 10 | Students: 8  | Students: 7  | Students: 13 |
+|          | Students: 14 | Students: 12 | Students: 12 | Students: 13 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 13 | Students: 14 | Students: 13 | Students: 7  | Students: 13 |
+|          | Students: 13 | Students: 15 | Students: 12 | Students: 15 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 16 | Students: 7  | Students: 16 | Students: 16 |              |
+|          | Students: 28 | Students: 14 | Students: 28 | Students: 28 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 16 |              |              |              |
+|          |              | Students: 28 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -474,32 +474,32 @@ INSTRUCTOR: Mr. Morteza Sedaghat
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D127)       | (D126)       | (D127)       | (D127)       |
-|          | Students: 9  | Students: 12 | Students: 12 | Students: 12 | Students: 12 |
+|          | (D126)       | (D126)       | (D127)       | (D126)       | (D126)       |
+|          | Students: 12 | Students: 12 | Students: 9  | Students: 13 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Physics      | ---          | Physics      | Physics      | Physics      |
-|          | (D126)       |              | (D126)       | (D126)       | (D126)       |
-|          | Students: 15 |              | Students: 11 | Students: 15 | Students: 15 |
+|          | (D127)       |              | (D126)       | (D126)       | (D127)       |
+|          | Students: 9  |              | Students: 17 | Students: 12 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D127)       | (D127)       | (D127)       | (D127)       |
-|          | Students: 16 | Students: 12 | Students: 12 | Students: 12 | Students: 12 |
+|          | (D126)       | (D127)       | (D126)       | (D126)       | (D126)       |
+|          | Students: 17 | Students: 6  | Students: 12 | Students: 17 | Students: 17 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D126)       | (D126)       | (D127)       | (D127)       |
-|          | Students: 12 | Students: 16 | Students: 16 | Students: 9  | Students: 12 |
+|          | (D126)       | (D127)       | (D127)       | (D127)       | (D127)       |
+|          | Students: 12 | Students: 9  | Students: 12 | Students: 6  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D127)       | (D126)       | (D127)       | (D127)       |
-|          | Students: 12 | Students: 11 | Students: 15 | Students: 12 | Students: 9  |
+|          | (D127)       | (D127)       | (D127)       | (D127)       | (D126)       |
+|          | Students: 7  | Students: 12 | Students: 6  | Students: 9  | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Physics      | Physics      | Physics      | Physics      | ---          |
 |          | (D127)       | (D126)       | (D127)       | (D127)       |              |
-|          | Students: 26 | Students: 16 | Students: 26 | Students: 26 |              |
+|          | Students: 19 | Students: 17 | Students: 19 | Students: 19 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Physics      | -            | -            | -            |
 |          |              | (D127)       |              |              |              |
-|          |              | Students: 26 |              |              |              |
+|          |              | Students: 19 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -510,32 +510,32 @@ INSTRUCTOR: Mr. Neil McMillian
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D128)       | (D128)       | (D205)       | (D132)       | (D128)       |
-|          | Students: 9  | Students: 11 | Students: 5  | Students: 6  | Students: 11 |
+|          | (D206)       | (D206)       | (D207)       | (D130)       | (D133)       |
+|          | Students: 7  | Students: 7  | Students: 4  | Students: 15 | Students: 20 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Economics    | ---          | Economics    | Economics    | Economics    |
-|          | (D207)       |              | (D128)       | (D205)       | (D128)       |
-|          | Students: 14 |              | Students: 9  | Students: 5  | Students: 9  |
+|          | (D133)       |              | (D133)       | (D132)       | (D207)       |
+|          | Students: 20 |              | Students: 20 | Students: 9  | Students: 4  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D216)       | (D216)       | (D130)       | (D128)       | (D128)       |
-|          | Students: 8  | Students: 8  | Students: 11 | Students: 9  | Students: 9  |
+|          | (D133)       | (D132)       | (D132)       | (D206)       | (D133)       |
+|          | Students: 14 | Students: 9  | Students: 9  | Students: 7  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D132)       | (D132)       | (D132)       | (D216)       | (D216)       |
-|          | Students: 6  | Students: 6  | Students: 6  | Students: 8  | Students: 8  |
+|          | (D133)       | (D133)       | (D206)       | (D133)       | (D206)       |
+|          | Students: 14 | Students: 20 | Students: 7  | Students: 20 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Economics    | Economics    | Economics    | Economics    | Economics    |
-|          | (D133)       | (D205)       | (D216)       | (D128)       | (D133)       |
-|          | Students: 7  | Students: 5  | Students: 8  | Students: 11 | Students: 7  |
+|          | (D132)       | (D132)       | (D130)       | (D133)       | (D132)       |
+|          | Students: 9  | Students: 11 | Students: 15 | Students: 14 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Economics    | Economics    | Economics    | Economics    | ---          |
-|          | (D204)       | (D128)       | (D204)       | (D204)       |              |
-|          | Students: 21 | Students: 9  | Students: 21 | Students: 21 |              |
+|          | (D207)       | (D133)       | (D207)       | (D207)       |              |
+|          | Students: 25 | Students: 14 | Students: 25 | Students: 25 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Economics    | -            | -            | -            |
-|          |              | (D204)       |              |              |              |
-|          |              | Students: 21 |              |              |              |
+|          |              | (D207)       |              |              |              |
+|          |              | Students: 25 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -547,31 +547,31 @@ INSTRUCTOR: Mr. Nicholas Connett
 +==========+==============+==============+==============+==============+==============+
 | P1       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 8  | Students: 15 | Students: 14 | Students: 14 | Students: 15 |
+|          | Students: 8  | Students: 8  | Students: 13 | Students: 14 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Language     | ---          | Language     | Language     | Language     |
 |          | (D133)       |              | (D133)       | (D133)       | (D133)       |
-|          | Students: 15 |              | Students: 8  | Students: 15 | Students: 15 |
+|          | Students: 14 |              | Students: 14 | Students: 9  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 11 | Students: 11 | Students: 15 | Students: 8  | Students: 8  |
+|          | Students: 10 | Students: 8  | Students: 10 | Students: 22 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 15 | Students: 8  | Students: 16 | Students: 15 | Students: 11 |
+|          | Students: 8  | Students: 10 | Students: 10 | Students: 8  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 14 | Students: 15 | Students: 15 | Students: 11 | Students: 15 |
+|          | Students: 10 | Students: 16 | Students: 8  | Students: 8  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Language     | Language     | Language     | Language     | ---          |
 |          | (D133)       | (D133)       | (D133)       | (D133)       |              |
-|          | Students: 17 | Students: 15 | Students: 17 | Students: 17 |              |
+|          | Students: 23 | Students: 14 | Students: 23 | Students: 23 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Language     | -            | -            | -            |
 |          |              | (D133)       |              |              |              |
-|          |              | Students: 17 |              |              |              |
+|          |              | Students: 23 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -583,31 +583,31 @@ INSTRUCTOR: Mr. Paul Turner
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 17 | Students: 11 | Students: 17 | Students: 17 |
+|          | Students: 14 | Students: 8  | Students: 10 | Students: 8  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 |              | Students: 11 | Students: 12 | Students: 14 |
+|          | Students: 12 |              | Students: 10 | Students: 8  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 6  | Students: 12 | Students: 11 | Students: 15 | Students: 11 |
+|          | Students: 10 | Students: 12 | Students: 14 | Students: 12 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 15 | Students: 6  | Students: 11 | Students: 11 |
+|          | Students: 8  | Students: 17 | Students: 8  | Students: 12 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 17 | Students: 11 | Students: 15 | Students: 11 | Students: 6  |
+|          | Students: 17 | Students: 10 | Students: 17 | Students: 10 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 19 | Students: 11 | Students: 19 | Students: 19 |              |
+|          | Students: 26 | Students: 14 | Students: 26 | Students: 26 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 19 |              |              |              |
+|          |              | Students: 26 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -619,31 +619,31 @@ INSTRUCTOR: Mr. Suneth Edirisinghe
 +==========+==============+==============+==============+==============+==============+
 | P1       | Physics      | Physics      | Physics      | Physics      | Physics      |
 |          | (D127)       | (D127)       | (D127)       | (D127)       | (D126)       |
-|          | Students: 17 | Students: 17 | Students: 17 | Students: 11 | Students: 13 |
+|          | Students: 15 | Students: 15 | Students: 5  | Students: 12 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Physics      | ---          | Physics      | Physics      | Physics      |
-|          | (D126)       |              | (D127)       | (D126)       | (D127)       |
-|          | Students: 4  |              | Students: 9  | Students: 13 | Students: 17 |
+|          | (D127)       |              | (D127)       | (D127)       | (D127)       |
+|          | Students: 12 |              | Students: 9  | Students: 15 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D127)       | (D127)       | (D127)       | (D127)       |
-|          | Students: 13 | Students: 9  | Students: 17 | Students: 17 | Students: 17 |
+|          | (D127)       | (D126)       | (D127)       | (D126)       | (D127)       |
+|          | Students: 9  | Students: 6  | Students: 12 | Students: 6  | Students: 5  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D127)       | (D127)       | (D127)       | (D127)       |
-|          | Students: 11 | Students: 17 | Students: 16 | Students: 17 | Students: 11 |
+|          | (D127)       | (D127)       | (D126)       | (D127)       | (D126)       |
+|          | Students: 5  | Students: 5  | Students: 10 | Students: 13 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D126)       | (D127)       | (D127)       | (D126)       |
-|          | Students: 11 | Students: 13 | Students: 11 | Students: 11 | Students: 9  |
+|          | (D127)       | (D127)       | (D127)       | (D127)       | (D127)       |
+|          | Students: 9  | Students: 12 | Students: 15 | Students: 9  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Physics      | Physics      | Physics      | Physics      | ---          |
-|          | (D127)       | (D127)       | (D127)       | (D127)       |              |
-|          | Students: 10 | Students: 11 | Students: 10 | Students: 10 |              |
+|          | (D126)       | (D127)       | (D126)       | (D126)       |              |
+|          | Students: 26 | Students: 13 | Students: 26 | Students: 26 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Physics      | -            | -            | -            |
-|          |              | (D127)       |              |              |              |
-|          |              | Students: 10 |              |              |              |
+|          |              | (D126)       |              |              |              |
+|          |              | Students: 26 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -654,32 +654,32 @@ INSTRUCTOR: Mr. Timothy Smith
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D125)       | (D124)       | (D124)       | (D124)       | (D124)       |
-|          | Students: 8  | Students: 16 | Students: 16 | Students: 9  | Students: 11 |
+|          | (D125)       | (D124)       | (D125)       | (D124)       | (D125)       |
+|          | Students: 6  | Students: 14 | Students: 6  | Students: 14 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Biology      | ---          | Biology      | Biology      | Biology      |
-|          | (D124)       |              | (D124)       | (D124)       | (D124)       |
-|          | Students: 16 |              | Students: 11 | Students: 15 | Students: 10 |
+|          | (D124)       |              | (D125)       | (D124)       | (D124)       |
+|          | Students: 11 |              | Students: 14 | Students: 11 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D124)       | (D124)       | (D124)       | (D124)       | (D124)       |
-|          | Students: 11 | Students: 10 | Students: 9  | Students: 6  | Students: 15 |
+|          | (D125)       | (D124)       | (D125)       | (D125)       | (D125)       |
+|          | Students: 14 | Students: 11 | Students: 15 | Students: 14 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D124)       | (D125)       | (D124)       | (D124)       | (D124)       |
-|          | Students: 9  | Students: 8  | Students: 12 | Students: 16 | Students: 16 |
+|          | (D124)       | (D124)       | (D124)       | (D124)       | (D125)       |
+|          | Students: 11 | Students: 11 | Students: 11 | Students: 11 | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D125)       | (D125)       | (D125)       | (D124)       | (D124)       |
-|          | Students: 9  | Students: 7  | Students: 8  | Students: 10 | Students: 9  |
+|          | (D124)       | (D125)       | (D124)       | (D125)       | (D125)       |
+|          | Students: 14 | Students: 14 | Students: 14 | Students: 6  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Biology      | Biology      | Biology      | Biology      | ---          |
-|          | (D124)       | (D124)       | (D124)       | (D124)       |              |
-|          | Students: 26 | Students: 9  | Students: 26 | Students: 26 |              |
+|          | (D124)       | (D125)       | (D124)       | (D124)       |              |
+|          | Students: 17 | Students: 6  | Students: 17 | Students: 17 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Biology      | -            | -            | -            |
 |          |              | (D124)       |              |              |              |
-|          |              | Students: 26 |              |              |              |
+|          |              | Students: 17 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -691,31 +691,31 @@ INSTRUCTOR: Mr. Tyler Mulvaney
 +==========+==============+==============+==============+==============+==============+
 | P1       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 8  | Students: 8  | Students: 8  | Students: 7  | Students: 11 |
+|          | Students: 3  | Students: 12 | Students: 10 | Students: 6  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Language     | ---          | Language     | Language     | Language     |
 |          | (D133)       |              | (D133)       | (D133)       | (D133)       |
-|          | Students: 12 |              | Students: 10 | Students: 8  | Students: 10 |
+|          | Students: 11 |              | Students: 6  | Students: 6  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 8  | Students: 7  | Students: 12 | Students: 9  | Students: 12 |
+|          | Students: 6  | Students: 6  | Students: 3  | Students: 18 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 15 | Students: 11 | Students: 11 | Students: 10 | Students: 14 |
+|          | Students: 6  | Students: 11 | Students: 6  | Students: 3  | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 8  | Students: 8  | Students: 8  | Students: 8  | Students: 8  |
+|          | Students: 11 | Students: 10 | Students: 6  | Students: 11 | Students: 3  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Language     | Language     | Language     | Language     | ---          |
 |          | (D133)       | (D133)       | (D133)       | (D133)       |              |
-|          | Students: 16 | Students: 15 | Students: 16 | Students: 16 |              |
+|          | Students: 15 | Students: 3  | Students: 15 | Students: 15 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Language     | -            | -            | -            |
 |          |              | (D133)       |              |              |              |
-|          |              | Students: 16 |              |              |              |
+|          |              | Students: 15 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -727,31 +727,31 @@ INSTRUCTOR: Ms. Adelaida Dimitrova
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 7  | Students: 9  | Students: 12 | Students: 17 | Students: 7  |
+|          | Students: 9  | Students: 7  | Students: 9  | Students: 9  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 |              | Students: 7  | Students: 9  | Students: 12 |
+|          | Students: 15 |              | Students: 5  | Students: 10 | Students: 15 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 7  | Students: 7  | Students: 9  | Students: 7  | Students: 15 |
+|          | Students: 6  | Students: 10 | Students: 15 | Students: 6  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 12 | Students: 12 | Students: 11 | Students: 9  | Students: 9  |
+|          | Students: 13 | Students: 9  | Students: 10 | Students: 14 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 11 | Students: 4  | Students: 12 | Students: 7  |
+|          | Students: 10 | Students: 15 | Students: 9  | Students: 6  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 18 | Students: 11 | Students: 18 | Students: 18 |              |
+|          | Students: 21 | Students: 9  | Students: 21 | Students: 21 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 18 |              |              |              |
+|          |              | Students: 21 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -762,32 +762,32 @@ INSTRUCTOR: Ms. Aida Tomich
 | Period   | Mon              | Tue              | Wed              | Thu              | Fri              |
 +==========+==================+==================+==================+==================+==================+
 | P1       | Business Studies | Business Studies | Business Studies | Business Studies | Business Studies |
-|          | (D216)           | (D201)           | (D207)           | (D206)           | (D207)           |
-|          | Students: 19     | Students: 19     | Students: 15     | Students: 10     | Students: 15     |
+|          | (D206)           | (D129)           | (D110)           | (D129)           | (D203)           |
+|          | Students: 3      | Students: 12     | Students: 11     | Students: 12     | Students: 10     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P2       | Business Studies | ---              | Business Studies | Business Studies | Business Studies |
-|          | (D130)           |                  | (D130)           | (D130)           | (D216)           |
-|          | Students: 6      |                  | Students: 10     | Students: 6      | Students: 19     |
+|          | (D203)           |                  | (D206)           | (D203)           | (D204)           |
+|          | Students: 10     |                  | Students: 3      | Students: 10     | Students: 10     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P3       | Business Studies | Business Studies | Business Studies | Business Studies | Business Studies |
-|          | (D201)           | (D130)           | (D203)           | (D207)           | (D130)           |
-|          | Students: 19     | Students: 10     | Students: 13     | Students: 15     | Students: 10     |
+|          | (D129)           | (D206)           | (D129)           | (D204)           | (D204)           |
+|          | Students: 12     | Students: 3      | Students: 12     | Students: 10     | Students: 16     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P4       | Business Studies | Business Studies | Business Studies | Business Studies | Business Studies |
-|          | (D203)           | (D130)           | (D206)           | (D130)           | (D201)           |
-|          | Students: 13     | Students: 6      | Students: 10     | Students: 10     | Students: 11     |
+|          | (D204)           | (D204)           | (D203)           | (D204)           | (D129)           |
+|          | Students: 16     | Students: 10     | Students: 10     | Students: 16     | Students: 12     |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P5       | Business Studies | Business Studies | Business Studies | Business Studies | Business Studies |
-|          | (D207)           | (D216)           | (D130)           | (D216)           | (D203)           |
-|          | Students: 15     | Students: 19     | Students: 6      | Students: 19     | Students: 13     |
+|          | (D204)           | (D217)           | (D217)           | (D206)           | (D206)           |
+|          | Students: 10     | Students: 18     | Students: 18     | Students: 3      | Students: 3      |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P6       | Business Studies | Business Studies | Business Studies | Business Studies | ---              |
-|          | (D217)           | (D207)           | (D217)           | (D217)           |                  |
-|          | Students: 14     | Students: 15     | Students: 14     | Students: 14     |                  |
+|          | (D132)           | (D204)           | (D132)           | (D132)           |                  |
+|          | Students: 20     | Students: 16     | Students: 20     | Students: 20     |                  |
 +----------+------------------+------------------+------------------+------------------+------------------+
 | P7       | -                | Business Studies | -                | -                | -                |
-|          |                  | (D217)           |                  |                  |                  |
-|          |                  | Students: 14     |                  |                  |                  |
+|          |                  | (D132)           |                  |                  |                  |
+|          |                  | Students: 20     |                  |                  |                  |
 +----------+------------------+------------------+------------------+------------------+------------------+
 
 
@@ -798,32 +798,32 @@ INSTRUCTOR: Ms. Andriana Gueorguieva
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D124)       | (D125)       | (D124)       | (D125)       | (D125)       |
-|          | Students: 11 | Students: 13 | Students: 11 | Students: 15 | Students: 10 |
+|          | (D124)       | (D125)       | (D124)       | (D125)       | (D124)       |
+|          | Students: 10 | Students: 10 | Students: 16 | Students: 10 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Biology      | ---          | Biology      | Biology      | Biology      |
-|          | (D125)       |              | (D125)       | (D125)       | (D125)       |
-|          | Students: 14 |              | Students: 10 | Students: 14 | Students: 14 |
+|          | (D124)       |              | (D124)       | (D124)       | (D124)       |
+|          | Students: 8  |              | Students: 10 | Students: 7  | Students: 18 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D125)       | (D124)       | (D125)       | (D124)       | (D124)       |
-|          | Students: 10 | Students: 7  | Students: 10 | Students: 11 | Students: 11 |
+|          | (D124)       | (D124)       | (D124)       | (D125)       | (D124)       |
+|          | Students: 16 | Students: 18 | Students: 8  | Students: 9  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D125)       | (D125)       | (D125)       | (D125)       | (D125)       |
-|          | Students: 13 | Students: 14 | Students: 14 | Students: 10 | Students: 15 |
+|          | (D125)       | (D124)       | (D125)       | (D124)       | (D125)       |
+|          | Students: 10 | Students: 8  | Students: 10 | Students: 10 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Biology      | Biology      | Biology      | Biology      | Biology      |
-|          | (D125)       | (D125)       | (D125)       | (D124)       | (D125)       |
-|          | Students: 14 | Students: 10 | Students: 14 | Students: 7  | Students: 13 |
+|          | (D124)       | (D124)       | (D124)       | (D124)       | (D124)       |
+|          | Students: 18 | Students: 10 | Students: 18 | Students: 18 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Biology      | Biology      | Biology      | Biology      | ---          |
-|          | (D125)       | (D125)       | (D125)       | (D125)       |              |
-|          | Students: 24 | Students: 14 | Students: 24 | Students: 24 |              |
+|          | (D124)       | (D124)       | (D124)       | (D124)       |              |
+|          | Students: 19 | Students: 7  | Students: 19 | Students: 19 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Biology      | -            | -            | -            |
-|          |              | (D125)       |              |              |              |
-|          |              | Students: 24 |              |              |              |
+|          |              | (D124)       |              |              |              |
+|          |              | Students: 19 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -834,32 +834,32 @@ INSTRUCTOR: Ms. Anne McAtee
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Accounting   | Accounting   | Accounting   | Accounting   | Accounting   |
-|          | (D201)       | (D205)       | (D217)       | (D205)       | (D205)       |
-|          | Students: 9  | Students: 14 | Students: 16 | Students: 14 | Students: 14 |
+|          | (D203)       | (D133)       | (D133)       | (D204)       | (D131)       |
+|          | Students: 7  | Students: 8  | Students: 8  | Students: 9  | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Accounting   | ---          | Accounting   | Accounting   | Accounting   |
-|          | (D110)       |              | (D110)       | (D110)       | (D130)       |
-|          | Students: 9  |              | Students: 9  | Students: 9  | Students: 13 |
+|          | (D204)       |              | (D131)       | (D205)       | (D204)       |
+|          | Students: 9  |              | Students: 6  | Students: 11 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Accounting   | Accounting   | Accounting   | Accounting   | Accounting   |
-|          | (D205)       | (D110)       | (D205)       | (D216)       | (D216)       |
-|          | Students: 14 | Students: 9  | Students: 14 | Students: 10 | Students: 10 |
+|          | (D217)       | (D204)       | (D203)       | (D133)       | (D205)       |
+|          | Students: 14 | Students: 9  | Students: 7  | Students: 8  | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Accounting   | Accounting   | Accounting   | Accounting   | Accounting   |
-|          | (D216)       | (D216)       | (D201)       | (D217)       | (D110)       |
-|          | Students: 10 | Students: 10 | Students: 9  | Students: 9  | Students: 9  |
+|          | (D205)       | (D217)       | (D204)       | (D203)       | (D217)       |
+|          | Students: 11 | Students: 14 | Students: 9  | Students: 7  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Accounting   | Accounting   | Accounting   | Accounting   | Accounting   |
-|          | (D217)       | (D201)       | (D216)       | (D201)       | (D217)       |
-|          | Students: 16 | Students: 9  | Students: 10 | Students: 9  | Students: 16 |
+|          | (D131)       | (D131)       | (D205)       | (D217)       | (D203)       |
+|          | Students: 6  | Students: 6  | Students: 11 | Students: 14 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Accounting   | Accounting   | Accounting   | Accounting   | ---          |
-|          | (D215)       | (D130)       | (D215)       | (D215)       |              |
-|          | Students: 12 | Students: 13 | Students: 12 | Students: 12 |              |
+|          | (D206)       | (D203)       | (D206)       | (D206)       |              |
+|          | Students: 21 | Students: 7  | Students: 21 | Students: 21 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Accounting   | -            | -            | -            |
-|          |              | (D215)       |              |              |              |
-|          |              | Students: 12 |              |              |              |
+|          |              | (D206)       |              |              |              |
+|          |              | Students: 21 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -870,32 +870,32 @@ INSTRUCTOR: Ms. Casablanca Kwok-Heon
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D127)       | (D126)       | (D126)       | (D126)       |
-|          | Students: 14 | Students: 12 | Students: 14 | Students: 13 | Students: 13 |
+|          | (D127)       | (D127)       | (D126)       | (D127)       | (D126)       |
+|          | Students: 11 | Students: 19 | Students: 11 | Students: 5  | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Physics      | ---          | Physics      | Physics      | Physics      |
-|          | (D127)       |              | (D126)       | (D127)       | (D126)       |
-|          | Students: 6  |              | Students: 13 | Students: 6  | Students: 14 |
+|          | (D126)       |              | (D126)       | (D127)       | (D127)       |
+|          | Students: 9  |              | Students: 12 | Students: 11 | Students: 19 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D127)       | (D126)       | (D126)       | (D127)       |
-|          | Students: 6  | Students: 6  | Students: 11 | Students: 14 | Students: 6  |
+|          | (D126)       | (D126)       | (D126)       | (D126)       | (D127)       |
+|          | Students: 8  | Students: 8  | Students: 7  | Students: 11 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D126)       | (D127)       | (D126)       | (D127)       |
-|          | Students: 13 | Students: 4  | Students: 6  | Students: 11 | Students: 12 |
+|          | (D127)       | (D127)       | (D127)       | (D126)       | (D126)       |
+|          | Students: 19 | Students: 11 | Students: 19 | Students: 10 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D126)       | (D127)       | (D127)       | (D127)       |
-|          | Students: 4  | Students: 13 | Students: 7  | Students: 12 | Students: 6  |
+|          | (D126)       | (D126)       | (D127)       | (D126)       | (D127)       |
+|          | Students: 7  | Students: 8  | Students: 11 | Students: 7  | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Physics      | Physics      | Physics      | Physics      | ---          |
-|          | (D126)       | (D126)       | (D126)       | (D126)       |              |
-|          | Students: 16 | Students: 14 | Students: 16 | Students: 16 |              |
+|          | (D127)       | (D126)       | (D127)       | (D127)       |              |
+|          | Students: 10 | Students: 10 | Students: 10 | Students: 10 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Physics      | -            | -            | -            |
-|          |              | (D126)       |              |              |              |
-|          |              | Students: 16 |              |              |              |
+|          |              | (D127)       |              |              |              |
+|          |              | Students: 10 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -906,32 +906,32 @@ INSTRUCTOR: Ms. Charlotte Robinson
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D129)       | (D129)       | (D132)       | (D132)       | (D129)       |
-|          | Students: 9  | Students: 8  | Students: 6  | Students: 11 | Students: 9  |
+|          | (D129)       | (D129)       | (D132)       | (D132)       | (D132)       |
+|          | Students: 12 | Students: 10 | Students: 10 | Students: 10 | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Literature   | ---          | Literature   | Literature   | Literature   |
-|          | (D129)       |              | (D132)       | (D132)       | (D132)       |
-|          | Students: 15 |              | Students: 11 | Students: 8  | Students: 6  |
+|          | (D132)       |              | (D132)       | (D129)       | (D129)       |
+|          | Students: 7  |              | Students: 13 | Students: 12 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D129)       | (D132)       | (D132)       | (D129)       | (D132)       |
-|          | Students: 6  | Students: 6  | Students: 8  | Students: 9  | Students: 8  |
+|          | (D129)       | (D132)       | (D132)       | (D132)       | (D129)       |
+|          | Students: 12 | Students: 9  | Students: 7  | Students: 13 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D129)       | (D132)       | (D129)       | (D132)       | (D129)       |
-|          | Students: 13 | Students: 6  | Students: 9  | Students: 4  | Students: 6  |
+|          | (D132)       | (D132)       | (D129)       | (D129)       | (D132)       |
+|          | Students: 13 | Students: 10 | Students: 12 | Students: 12 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D132)       | (D132)       | (D129)       | (D132)       | (D129)       |
-|          | Students: 6  | Students: 8  | Students: 9  | Students: 6  | Students: 15 |
+|          | (D132)       | (D129)       | (D132)       | (D129)       | (D132)       |
+|          | Students: 10 | Students: 12 | Students: 10 | Students: 4  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Literature   | Literature   | Literature   | Literature   | ---          |
-|          | (D129)       | (D132)       | (D129)       | (D129)       |              |
-|          | Students: 25 | Students: 11 | Students: 25 | Students: 25 |              |
+|          | (D132)       | (D132)       | (D132)       | (D132)       |              |
+|          | Students: 27 | Students: 7  | Students: 27 | Students: 27 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Literature   | -            | -            | -            |
-|          |              | (D129)       |              |              |              |
-|          |              | Students: 25 |              |              |              |
+|          |              | (D132)       |              |              |              |
+|          |              | Students: 27 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -943,31 +943,31 @@ INSTRUCTOR: Ms. Christina Lee
 +==========+==============+==============+==============+==============+==============+
 | P1       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 10 | Students: 11 | Students: 11 | Students: 12 | Students: 11 |
+|          | Students: 14 | Students: 10 | Students: 14 | Students: 10 | Students: 15 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Maths        | ---          | Maths        | Maths        | Maths        |
 |          | (D128)       |              | (D128)       | (D128)       | (D128)       |
-|          | Students: 4  |              | Students: 10 | Students: 11 | Students: 11 |
+|          | Students: 10 |              | Students: 8  | Students: 14 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 4  | Students: 12 | Students: 10 | Students: 10 |
+|          | Students: 9  | Students: 15 | Students: 11 | Students: 15 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 11 | Students: 11 | Students: 10 | Students: 10 | Students: 13 |
+|          | Students: 7  | Students: 10 | Students: 10 | Students: 10 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Maths        | Maths        | Maths        | Maths        | Maths        |
 |          | (D128)       | (D128)       | (D128)       | (D128)       | (D128)       |
-|          | Students: 12 | Students: 10 | Students: 12 | Students: 12 | Students: 4  |
+|          | Students: 12 | Students: 14 | Students: 10 | Students: 12 | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Maths        | Maths        | Maths        | Maths        | ---          |
 |          | (D128)       | (D128)       | (D128)       | (D128)       |              |
-|          | Students: 16 | Students: 10 | Students: 16 | Students: 16 |              |
+|          | Students: 19 | Students: 10 | Students: 19 | Students: 19 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Maths        | -            | -            | -            |
 |          |              | (D128)       |              |              |              |
-|          |              | Students: 16 |              |              |              |
+|          |              | Students: 19 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -979,31 +979,31 @@ INSTRUCTOR: Ms. Esther Leigh
 +==========+==============+==============+==============+==============+==============+
 | P1       | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  |
 |          | (D108)       | (D108)       | (D108)       | (D108)       | (D108)       |
-|          | Students: 8  | Students: 13 | Students: 9  | Students: 18 | Students: 9  |
+|          | Students: 12 | Students: 9  | Students: 14 | Students: 14 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Mixed Media  | ---          | Mixed Media  | Mixed Media  | Mixed Media  |
 |          | (D108)       |              | (D108)       | (D108)       | (D108)       |
-|          | Students: 9  |              | Students: 11 | Students: 10 | Students: 11 |
+|          | Students: 9  |              | Students: 13 | Students: 12 | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  |
 |          | (D108)       | (D108)       | (D108)       | (D108)       | (D108)       |
-|          | Students: 14 | Students: 9  | Students: 10 | Students: 9  | Students: 18 |
+|          | Students: 11 | Students: 10 | Students: 10 | Students: 14 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  |
 |          | (D108)       | (D108)       | (D108)       | (D108)       | (D108)       |
-|          | Students: 18 | Students: 11 | Students: 8  | Students: 11 | Students: 10 |
+|          | Students: 11 | Students: 14 | Students: 11 | Students: 10 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  |
 |          | (D108)       | (D108)       | (D108)       | (D108)       | (D108)       |
-|          | Students: 11 | Students: 18 | Students: 18 | Students: 8  | Students: 8  |
+|          | Students: 10 | Students: 12 | Students: 12 | Students: 11 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Mixed Media  | Mixed Media  | Mixed Media  | Mixed Media  | ---          |
 |          | (D108)       | (D108)       | (D108)       | (D108)       |              |
-|          | Students: 11 | Students: 8  | Students: 11 | Students: 11 |              |
+|          | Students: 12 | Students: 11 | Students: 12 | Students: 12 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Mixed Media  | -            | -            | -            |
 |          |              | (D108)       |              |              |              |
-|          |              | Students: 11 |              |              |              |
+|          |              | Students: 12 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1013,33 +1013,33 @@ INSTRUCTOR: Ms. Helen Montgomerie
 +----------+--------------+--------------+--------------+--------------+--------------+
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
-| P1       | Classics     | Classics     | Classics     | Classics     | Classics     |
-|          | (D215)       | (D207)       | (D216)       | (D131)       | (D131)       |
-|          | Students: 12 | Students: 10 | Students: 17 | Students: 14 | Students: 14 |
+| P1       | History      | History      | History      | History      | History      |
+|          | (D203)       | (D203)       | (D203)       | (D203)       | (D203)       |
+|          | Students: 10 | Students: 11 | Students: 10 | Students: 15 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
-| P2       | Classics     | ---          | Classics     | Classics     | Classics     |
-|          | (D128)       |              | (D131)       | (D131)       | (D215)       |
-|          | Students: 12 |              | Students: 14 | Students: 12 | Students: 12 |
+| P2       | History      | ---          | History      | History      | History      |
+|          | (D203)       |              | (D203)       | (D203)       | (D203)       |
+|          | Students: 8  |              | Students: 12 | Students: 5  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
-| P3       | Classics     | Classics     | Classics     | Classics     | Classics     |
-|          | (D131)       | (D216)       | (D207)       | (D216)       | (D205)       |
-|          | Students: 14 | Students: 17 | Students: 10 | Students: 17 | Students: 9  |
+| P3       | History      | History      | History      | History      | History      |
+|          | (D203)       | (D203)       | (D203)       | (D203)       | (D203)       |
+|          | Students: 14 | Students: 6  | Students: 8  | Students: 12 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
-| P4       | Classics     | Classics     | Classics     | Classics     | Classics     |
-|          | (D207)       | (D215)       | (D128)       | (D207)       | (D216)       |
-|          | Students: 10 | Students: 12 | Students: 12 | Students: 10 | Students: 17 |
+| P4       | History      | History      | History      | History      | History      |
+|          | (D203)       | (D203)       | (D203)       | (D203)       | (D203)       |
+|          | Students: 12 | Students: 12 | Students: 6  | Students: 8  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
-| P5       | Classics     | Classics     | Classics     | Classics     | Classics     |
-|          | (D216)       | (D128)       | (D215)       | (D215)       | (D207)       |
-|          | Students: 17 | Students: 12 | Students: 12 | Students: 12 | Students: 10 |
+| P5       | History      | History      | History      | History      | History      |
+|          | (D203)       | (D203)       | (D203)       | (D203)       | (D203)       |
+|          | Students: 5  | Students: 5  | Students: 5  | Students: 10 | Students: 5  |
 +----------+--------------+--------------+--------------+--------------+--------------+
-| P6       | Classics     | Classics     | Classics     | Classics     | ---          |
-|          | (D207)       | (D131)       | (D207)       | (D207)       |              |
-|          | Students: 25 | Students: 14 | Students: 25 | Students: 25 |              |
+| P6       | History      | History      | History      | History      | ---          |
+|          | (D203)       | (D203)       | (D203)       | (D203)       |              |
+|          | Students: 15 | Students: 10 | Students: 15 | Students: 15 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
-| P7       | -            | Classics     | -            | -            | -            |
-|          |              | (D207)       |              |              |              |
-|          |              | Students: 25 |              |              |              |
+| P7       | -            | History      | -            | -            | -            |
+|          |              | (D203)       |              |              |              |
+|          |              | Students: 15 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1050,32 +1050,32 @@ INSTRUCTOR: Ms. Ingrid Renneberg
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D126)       | (D127)       | (D127)       | (D127)       |
-|          | Students: 16 | Students: 8  | Students: 12 | Students: 17 | Students: 12 |
+|          | (D126)       | (D126)       | (D126)       | (D126)       | (D126)       |
+|          | Students: 12 | Students: 13 | Students: 12 | Students: 9  | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Physics      | ---          | Physics      | Physics      | Physics      |
-|          | (D126)       |              | (D126)       | (D127)       | (D127)       |
-|          | Students: 8  |              | Students: 8  | Students: 8  | Students: 12 |
+|          | (D126)       |              | (D127)       | (D127)       | (D126)       |
+|          | Students: 19 |              | Students: 7  | Students: 17 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D127)       | (D127)       | (D126)       | (D126)       |
-|          | Students: 12 | Students: 8  | Students: 17 | Students: 16 | Students: 16 |
+|          | (D127)       | (D126)       | (D126)       | (D126)       | (D127)       |
+|          | Students: 9  | Students: 7  | Students: 9  | Students: 7  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D127)       | (D127)       | (D126)       | (D127)       | (D126)       |
-|          | Students: 17 | Students: 12 | Students: 8  | Students: 12 | Students: 8  |
+|          | (D126)       | (D126)       | (D126)       | (D126)       | (D126)       |
+|          | Students: 9  | Students: 19 | Students: 19 | Students: 11 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Physics      | Physics      | Physics      | Physics      | Physics      |
-|          | (D126)       | (D127)       | (D127)       | (D126)       | (D127)       |
-|          | Students: 18 | Students: 12 | Students: 12 | Students: 18 | Students: 17 |
+|          | (D127)       | (D127)       | (D126)       | (D126)       | (D126)       |
+|          | Students: 7  | Students: 7  | Students: 10 | Students: 12 | Students: 17 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Physics      | Physics      | Physics      | Physics      | ---          |
-|          | (D126)       | (D127)       | (D126)       | (D126)       |              |
-|          | Students: 12 | Students: 9  | Students: 12 | Students: 12 |              |
+|          | (D127)       | (D126)       | (D127)       | (D127)       |              |
+|          | Students: 21 | Students: 12 | Students: 21 | Students: 21 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Physics      | -            | -            | -            |
-|          |              | (D126)       |              |              |              |
-|          |              | Students: 12 |              |              |              |
+|          |              | (D127)       |              |              |              |
+|          |              | Students: 21 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1087,31 +1087,31 @@ INSTRUCTOR: Ms. Lori Wallace
 +==========+==============+==============+==============+==============+==============+
 | P1       | Drama        | Drama        | Drama        | Drama        | Drama        |
 |          | (D135)       | (D135)       | (D135)       | (D135)       | (D135)       |
-|          | Students: 7  | Students: 12 | Students: 18 | Students: 12 | Students: 14 |
+|          | Students: 8  | Students: 7  | Students: 11 | Students: 16 | Students: 16 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Drama        | ---          | Drama        | Drama        | Drama        |
 |          | (D135)       |              | (D135)       | (D135)       | (D135)       |
-|          | Students: 14 |              | Students: 12 | Students: 18 | Students: 9  |
+|          | Students: 11 |              | Students: 8  | Students: 11 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Drama        | Drama        | Drama        | Drama        | Drama        |
 |          | (D135)       | (D135)       | (D135)       | (D135)       | (D135)       |
-|          | Students: 18 | Students: 18 | Students: 14 | Students: 7  | Students: 18 |
+|          | Students: 7  | Students: 8  | Students: 7  | Students: 8  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Drama        | Drama        | Drama        | Drama        | Drama        |
 |          | (D135)       | (D135)       | (D135)       | (D135)       | (D135)       |
-|          | Students: 10 | Students: 9  | Students: 7  | Students: 15 | Students: 12 |
+|          | Students: 9  | Students: 11 | Students: 8  | Students: 8  | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Drama        | Drama        | Drama        | Drama        | Drama        |
 |          | (D135)       | (D135)       | (D135)       | (D135)       | (D135)       |
-|          | Students: 7  | Students: 14 | Students: 15 | Students: 14 | Students: 15 |
+|          | Students: 8  | Students: 8  | Students: 16 | Students: 11 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Drama        | Drama        | Drama        | Drama        | ---          |
 |          | (D135)       | (D135)       | (D135)       | (D135)       |              |
-|          | Students: 10 | Students: 15 | Students: 10 | Students: 10 |              |
+|          | Students: 25 | Students: 11 | Students: 25 | Students: 25 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Drama        | -            | -            | -            |
 |          |              | (D135)       |              |              |              |
-|          |              | Students: 10 |              |              |              |
+|          |              | Students: 25 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1122,32 +1122,32 @@ INSTRUCTOR: Ms. Megan de Luca
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Geography    | Geography    | Geography    | Geography    | Geography    |
-|          | (D217)       | (D128)       | (D217)       | (D217)       | (D131)       |
-|          | Students: 13 | Students: 9  | Students: 7  | Students: 9  | Students: 10 |
+|          | (D133)       | (D205)       | (D206)       | (D206)       | (D129)       |
+|          | Students: 11 | Students: 12 | Students: 9  | Students: 9  | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Geography    | ---          | Geography    | Geography    | Geography    |
-|          | (D131)       |              | (D131)       | (D217)       | (D217)       |
-|          | Students: 10 |              | Students: 10 | Students: 7  | Students: 9  |
+|          | (D206)       |              | (D131)       | (D133)       | (D205)       |
+|          | Students: 9  |              | Students: 7  | Students: 10 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Geography    | Geography    | Geography    | Geography    | Geography    |
-|          | (D131)       | (D217)       | (D128)       | (D131)       | (D217)       |
-|          | Students: 11 | Students: 9  | Students: 11 | Students: 10 | Students: 7  |
+|          | (D133)       | (D203)       | (D133)       | (D131)       | (D131)       |
+|          | Students: 10 | Students: 13 | Students: 11 | Students: 7  | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Geography    | Geography    | Geography    | Geography    | Geography    |
-|          | (D217)       | (D128)       | (D204)       | (D128)       | (D128)       |
-|          | Students: 7  | Students: 11 | Students: 8  | Students: 11 | Students: 11 |
+|          | (D129)       | (D131)       | (D203)       | (D133)       | (D133)       |
+|          | Students: 8  | Students: 7  | Students: 13 | Students: 11 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Geography    | Geography    | Geography    | Geography    | Geography    |
-|          | (D217)       | (D217)       | (D217)       | (D128)       | (D128)       |
-|          | Students: 9  | Students: 7  | Students: 9  | Students: 9  | Students: 9  |
+|          | (D205)       | (D206)       | (D205)       | (D205)       | (D206)       |
+|          | Students: 12 | Students: 9  | Students: 12 | Students: 12 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Geography    | Geography    | Geography    | Geography    | ---          |
-|          | (D204)       | (D131)       | (D204)       | (D204)       |              |
-|          | Students: 12 | Students: 10 | Students: 12 | Students: 12 |              |
+|          | (D128)       | (D129)       | (D128)       | (D128)       |              |
+|          | Students: 15 | Students: 8  | Students: 15 | Students: 15 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Geography    | -            | -            | -            |
-|          |              | (D204)       |              |              |              |
-|          |              | Students: 12 |              |              |              |
+|          |              | (D128)       |              |              |              |
+|          |              | Students: 15 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1158,32 +1158,32 @@ INSTRUCTOR: Ms. Natalie Matulovic
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology   |
-|          | (D204)       | (D203)       | (D128)       | (D203)       | (D128)       |
-|          | Students: 10 | Students: 7  | Students: 7  | Students: 7  | Students: 7  |
+|          | (D216)       | (D217)       | (D216)       | (D217)       | (D205)       |
+|          | Students: 8  | Students: 14 | Students: 8  | Students: 14 | Students: 7  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Psychology   | ---          | Psychology   | Psychology   | Psychology   |
-|          | (D129)       |              | (D204)       | (D205)       | (D204)       |
-|          | Students: 15 |              | Students: 10 | Students: 9  | Students: 10 |
+|          | (D205)       |              | (D132)       | (D130)       | (D217)       |
+|          | Students: 7  |              | Students: 9  | Students: 10 | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology   |
-|          | (D215)       | (D215)       | (D130)       | (D128)       | (D205)       |
-|          | Students: 6  | Students: 6  | Students: 11 | Students: 7  | Students: 9  |
+|          | (D132)       | (D205)       | (D217)       | (D132)       | (D132)       |
+|          | Students: 9  | Students: 7  | Students: 7  | Students: 9  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology   |
-|          | (D201)       | (D215)       | (D129)       | (D215)       | (D215)       |
-|          | Students: 11 | Students: 10 | Students: 15 | Students: 6  | Students: 6  |
+|          | (D217)       | (D133)       | (D130)       | (D133)       | (D131)       |
+|          | Students: 14 | Students: 13 | Students: 10 | Students: 13 | Students: 15 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology   |
-|          | (D128)       | (D129)       | (D215)       | (D129)       | (D129)       |
-|          | Students: 7  | Students: 15 | Students: 6  | Students: 15 | Students: 15 |
+|          | (D133)       | (D132)       | (D133)       | (D131)       | (D133)       |
+|          | Students: 13 | Students: 8  | Students: 13 | Students: 12 | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Psychology   | Psychology   | Psychology   | Psychology   | ---          |
-|          | (D133)       | (D128)       | (D133)       | (D133)       |              |
-|          | Students: 28 | Students: 7  | Students: 28 | Students: 28 |              |
+|          | (D217)       | (D132)       | (D217)       | (D217)       |              |
+|          | Students: 13 | Students: 9  | Students: 13 | Students: 13 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Psychology   | -            | -            | -            |
-|          |              | (D133)       |              |              |              |
-|          |              | Students: 28 |              |              |              |
+|          |              | (D217)       |              |              |              |
+|          |              | Students: 13 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1195,31 +1195,31 @@ INSTRUCTOR: Ms. Rachael Hancock
 +==========+===================+===================+===================+===================+===================+
 | P1       | Design Technology | Design Technology | Design Technology | Design Technology | Design Technology |
 |          | (D001)            | (D001)            | (D001)            | (D001)            | (D001)            |
-|          | Students: 9       | Students: 9       | Students: 14      | Students: 9       | Students: 7       |
+|          | Students: 9       | Students: 7       | Students: 16      | Students: 14      | Students: 16      |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 | P2       | Design Technology | ---               | Design Technology | Design Technology | Design Technology |
 |          | (D001)            |                   | (D001)            | (D001)            | (D001)            |
-|          | Students: 15      |                   | Students: 18      | Students: 15      | Students: 14      |
+|          | Students: 12      |                   | Students: 12      | Students: 12      | Students: 9       |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 | P3       | Design Technology | Design Technology | Design Technology | Design Technology | Design Technology |
 |          | (D001)            | (D001)            | (D001)            | (D001)            | (D001)            |
-|          | Students: 13      | Students: 18      | Students: 9       | Students: 10      | Students: 15      |
+|          | Students: 7       | Students: 16      | Students: 15      | Students: 8       | Students: 12      |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 | P4       | Design Technology | Design Technology | Design Technology | Design Technology | Design Technology |
 |          | (D001)            | (D001)            | (D001)            | (D001)            | (D001)            |
-|          | Students: 18      | Students: 14      | Students: 9       | Students: 18      | Students: 9       |
+|          | Students: 16      | Students: 14      | Students: 7       | Students: 9       | Students: 10      |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 | P5       | Design Technology | Design Technology | Design Technology | Design Technology | Design Technology |
 |          | (D001)            | (D001)            | (D001)            | (D001)            | (D001)            |
-|          | Students: 14      | Students: 7       | Students: 15      | Students: 14      | Students: 18      |
+|          | Students: 14      | Students: 12      | Students: 9       | Students: 7       | Students: 7       |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 | P6       | Design Technology | Design Technology | Design Technology | Design Technology | ---               |
 |          | (D001)            | (D001)            | (D001)            | (D001)            |                   |
-|          | Students: 12      | Students: 15      | Students: 12      | Students: 12      |                   |
+|          | Students: 18      | Students: 9       | Students: 18      | Students: 18      |                   |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 | P7       | -                 | Design Technology | -                 | -                 | -                 |
 |          |                   | (D001)            |                   |                   |                   |
-|          |                   | Students: 12      |                   |                   |                   |
+|          |                   | Students: 18      |                   |                   |                   |
 +----------+-------------------+-------------------+-------------------+-------------------+-------------------+
 
 
@@ -1230,69 +1230,69 @@ INSTRUCTOR: Ms. Radha Kanji
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D123)       | (D124)       | (D124)       | (D123)       |
-|          | Students: 14 | Students: 9  | Students: 7  | Students: 20 | Students: 9  |
+|          | (D123)       | (D124)       | (D124)       | (D123)       | (D124)       |
+|          | Students: 9  | Students: 9  | Students: 14 | Students: 9  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Chemistry    | ---          | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       |              | (D124)       | (D123)       | (D123)       |
-|          | Students: 23 |              | Students: 20 | Students: 8  | Students: 23 |
+|          | (D123)       |              | (D124)       | (D124)       | (D123)       |
+|          | Students: 9  |              | Students: 10 | Students: 14 | Students: 6  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D124)       | (D123)       | (D123)       | (D124)       |
-|          | Students: 8  | Students: 7  | Students: 23 | Students: 9  | Students: 20 |
+|          | (D123)       | (D124)       | (D124)       | (D124)       | (D124)       |
+|          | Students: 6  | Students: 10 | Students: 9  | Students: 10 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D123)       | (D123)       | (D123)       | (D123)       | (D124)       |
-|          | Students: 9  | Students: 12 | Students: 9  | Students: 23 | Students: 7  |
+|          | (D124)       | (D124)       | (D124)       | (D124)       | (D124)       |
+|          | Students: 10 | Students: 8  | Students: 8  | Students: 9  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | Chemistry    |
-|          | (D124)       | (D124)       | (D124)       | (D124)       | (D124)       |
-|          | Students: 20 | Students: 20 | Students: 20 | Students: 13 | Students: 13 |
+|          | (D124)       | (D123)       | (D123)       | (D123)       | (D123)       |
+|          | Students: 9  | Students: 9  | Students: 13 | Students: 6  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Chemistry    | Chemistry    | Chemistry    | Chemistry    | ---          |
 |          | (D123)       | (D123)       | (D123)       | (D123)       |              |
-|          | Students: 20 | Students: 16 | Students: 20 | Students: 20 |              |
+|          | Students: 23 | Students: 6  | Students: 23 | Students: 23 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Chemistry    | -            | -            | -            |
 |          |              | (D123)       |              |              |              |
-|          |              | Students: 20 |              |              |              |
+|          |              | Students: 23 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
 ==============================
 INSTRUCTOR: Ms. Robyn Webster
 ==============================
-+----------+--------------+--------------+--------------+--------------+-------------+
-| Period   | Mon          | Tue          | Wed          | Thu          | Fri         |
-+==========+==============+==============+==============+==============+=============+
-| P1       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology  |
-|          | (D206)       | (D206)       | (D203)       | (D203)       | (D217)      |
-|          | Students: 8  | Students: 8  | Students: 6  | Students: 6  | Students: 9 |
-+----------+--------------+--------------+--------------+--------------+-------------+
-| P2       | Psychology   | ---          | Psychology   | Psychology   | Psychology  |
-|          | (D110)       |              | (D206)       | (D130)       | (D204)      |
-|          | Students: 9  |              | Students: 8  | Students: 11 | Students: 9 |
-+----------+--------------+--------------+--------------+--------------+-------------+
-| P3       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology  |
-|          | (D204)       | (D110)       | (D203)       | (D206)       | (D110)      |
-|          | Students: 9  | Students: 9  | Students: 6  | Students: 8  | Students: 9 |
-+----------+--------------+--------------+--------------+--------------+-------------+
-| P4       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology  |
-|          | (D203)       | (D204)       | (D133)       | (D204)       | (D206)      |
-|          | Students: 6  | Students: 9  | Students: 8  | Students: 9  | Students: 8 |
-+----------+--------------+--------------+--------------+--------------+-------------+
-| P5       | Psychology   | Psychology   | Psychology   | Psychology   | Psychology  |
-|          | (D215)       | (D110)       | (D204)       | (D217)       | (D203)      |
-|          | Students: 12 | Students: 9  | Students: 9  | Students: 9  | Students: 6 |
-+----------+--------------+--------------+--------------+--------------+-------------+
-| P6       | Psychology   | Psychology   | Psychology   | Psychology   | ---         |
-|          | (D203)       | (D201)       | (D203)       | (D203)       |             |
-|          | Students: 26 | Students: 12 | Students: 26 | Students: 26 |             |
-+----------+--------------+--------------+--------------+--------------+-------------+
-| P7       | -            | Psychology   | -            | -            | -           |
-|          |              | (D203)       |              |              |             |
-|          |              | Students: 26 |              |              |             |
-+----------+--------------+--------------+--------------+--------------+-------------+
++----------+--------------+--------------+--------------+--------------+--------------+
+| Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
++==========+==============+==============+==============+==============+==============+
+| P1       | Sociology    | Sociology    | Sociology    | Sociology    | Sociology    |
+|          | (D207)       | (D216)       | (D133)       | (D133)       | (D215)       |
+|          | Students: 12 | Students: 15 | Students: 7  | Students: 7  | Students: 11 |
++----------+--------------+--------------+--------------+--------------+--------------+
+| P2       | Sociology    | ---          | Sociology    | Sociology    | Sociology    |
+|          | (D133)       |              | (D130)       | (D215)       | (D133)       |
+|          | Students: 7  |              | Students: 7  | Students: 11 | Students: 7  |
++----------+--------------+--------------+--------------+--------------+--------------+
+| P3       | Sociology    | Sociology    | Sociology    | Sociology    | Sociology    |
+|          | (D130)       | (D215)       | (D207)       | (D216)       | (D130)       |
+|          | Students: 7  | Students: 11 | Students: 12 | Students: 15 | Students: 7  |
++----------+--------------+--------------+--------------+--------------+--------------+
+| P4       | Sociology    | Sociology    | Sociology    | Sociology    | Sociology    |
+|          | (D216)       | (D130)       | (D216)       | (D207)       | (D130)       |
+|          | Students: 15 | Students: 7  | Students: 15 | Students: 12 | Students: 3  |
++----------+--------------+--------------+--------------+--------------+--------------+
+| P5       | Sociology    | Sociology    | Sociology    | Sociology    | Sociology    |
+|          | (D215)       | (D133)       | (D215)       | (D130)       | (D207)       |
+|          | Students: 11 | Students: 7  | Students: 11 | Students: 7  | Students: 12 |
++----------+--------------+--------------+--------------+--------------+--------------+
+| P6       | Sociology    | Sociology    | Sociology    | Sociology    | ---          |
+|          | (D207)       | (D207)       | (D207)       | (D207)       |              |
+|          | Students: 16 | Students: 12 | Students: 16 | Students: 16 |              |
++----------+--------------+--------------+--------------+--------------+--------------+
+| P7       | -            | Sociology    | -            | -            | -            |
+|          |              | (D207)       |              |              |              |
+|          |              | Students: 16 |              |              |              |
++----------+--------------+--------------+--------------+--------------+--------------+
 
 
 ==============================
@@ -1303,31 +1303,31 @@ INSTRUCTOR: Ms. Rony Yoo
 +==========+==============+==============+==============+==============+==============+
 | P1       | Music        | Music        | Music        | Music        | Music        |
 |          | (D217)       | (D217)       | (D217)       | (D217)       | (D217)       |
-|          | Students: 13 | Students: 11 | Students: 9  | Students: 12 | Students: 12 |
+|          | Students: 12 | Students: 9  | Students: 14 | Students: 13 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Music        | ---          | Music        | Music        | Music        |
 |          | (D217)       |              | (D217)       | (D217)       | (D217)       |
-|          | Students: 6  |              | Students: 12 | Students: 9  | Students: 11 |
+|          | Students: 9  |              | Students: 8  | Students: 8  | Students: 18 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Music        | Music        | Music        | Music        | Music        |
 |          | (D217)       | (D217)       | (D217)       | (D217)       | (D217)       |
-|          | Students: 11 | Students: 12 | Students: 11 | Students: 12 | Students: 6  |
+|          | Students: 18 | Students: 8  | Students: 10 | Students: 18 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Music        | Music        | Music        | Music        | Music        |
 |          | (D217)       | (D217)       | (D217)       | (D217)       | (D217)       |
-|          | Students: 12 | Students: 6  | Students: 6  | Students: 6  | Students: 16 |
+|          | Students: 14 | Students: 12 | Students: 9  | Students: 9  | Students: 14 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Music        | Music        | Music        | Music        | Music        |
 |          | (D217)       | (D217)       | (D217)       | (D217)       | (D217)       |
-|          | Students: 12 | Students: 16 | Students: 12 | Students: 11 | Students: 12 |
+|          | Students: 8  | Students: 8  | Students: 18 | Students: 14 | Students: 13 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Music        | Music        | Music        | Music        | ---          |
 |          | (D217)       | (D217)       | (D217)       | (D217)       |              |
-|          | Students: 16 | Students: 12 | Students: 16 | Students: 16 |              |
+|          | Students: 10 | Students: 18 | Students: 10 | Students: 10 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Music        | -            | -            | -            |
 |          |              | (D217)       |              |              |              |
-|          |              | Students: 16 |              |              |              |
+|          |              | Students: 10 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1360,32 +1360,32 @@ INSTRUCTOR: Ms. Veronica Boughtwood
 | Period   | Mon          | Tue          | Wed          | Thu          | Fri          |
 +==========+==============+==============+==============+==============+==============+
 | P1       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D132)       | (D132)       | (D129)       | (D129)       | (D129)       |
-|          | Students: 15 | Students: 12 | Students: 12 | Students: 12 | Students: 11 |
+|          | (D129)       | (D132)       | (D129)       | (D132)       | (D129)       |
+|          | Students: 11 | Students: 8  | Students: 9  | Students: 8  | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Literature   | ---          | Literature   | Literature   | Literature   |
-|          | (D129)       |              | (D129)       | (D132)       | (D129)       |
-|          | Students: 11 |              | Students: 11 | Students: 8  | Students: 12 |
+|          | (D132)       |              | (D132)       | (D129)       | (D129)       |
+|          | Students: 9  |              | Students: 11 | Students: 10 | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D129)       | (D129)       | (D129)       | (D129)       | (D132)       |
-|          | Students: 8  | Students: 12 | Students: 8  | Students: 12 | Students: 15 |
+|          | (D132)       | (D129)       | (D132)       | (D129)       | (D132)       |
+|          | Students: 8  | Students: 11 | Students: 8  | Students: 6  | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D132)       | (D132)       | (D132)       | (D129)       | (D129)       |
-|          | Students: 12 | Students: 8  | Students: 8  | Students: 11 | Students: 8  |
+|          | (D132)       | (D129)       | (D129)       | (D129)       | (D132)       |
+|          | Students: 10 | Students: 6  | Students: 10 | Students: 11 | Students: 8  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Literature   | Literature   | Literature   | Literature   | Literature   |
-|          | (D129)       | (D129)       | (D132)       | (D132)       | (D132)       |
-|          | Students: 11 | Students: 11 | Students: 12 | Students: 12 | Students: 8  |
+|          | (D129)       | (D129)       | (D129)       | (D132)       | (D129)       |
+|          | Students: 6  | Students: 9  | Students: 6  | Students: 9  | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Literature   | Literature   | Literature   | Literature   | ---          |
-|          | (D129)       | (D132)       | (D129)       | (D129)       |              |
-|          | Students: 25 | Students: 10 | Students: 25 | Students: 25 |              |
+|          | (D132)       | (D132)       | (D132)       | (D132)       |              |
+|          | Students: 28 | Students: 11 | Students: 28 | Students: 28 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Literature   | -            | -            | -            |
-|          |              | (D129)       |              |              |              |
-|          |              | Students: 25 |              |              |              |
+|          |              | (D132)       |              |              |              |
+|          |              | Students: 28 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 
 
@@ -1397,30 +1397,30 @@ INSTRUCTOR: Ms. Yolandi Irle
 +==========+==============+==============+==============+==============+==============+
 | P1       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 7  | Students: 7  | Students: 11 | Students: 7  | Students: 7  |
+|          | Students: 11 | Students: 9  | Students: 12 | Students: 12 | Students: 10 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P2       | Language     | ---          | Language     | Language     | Language     |
 |          | (D133)       |              | (D133)       | (D133)       | (D133)       |
-|          | Students: 17 |              | Students: 7  | Students: 9  | Students: 11 |
+|          | Students: 10 |              | Students: 4  | Students: 14 | Students: 9  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P3       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 9  | Students: 9  | Students: 7  | Students: 10 | Students: 9  |
+|          | Students: 9  | Students: 4  | Students: 11 | Students: 12 | Students: 12 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P4       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 9  | Students: 9  | Students: 9  | Students: 9  | Students: 9  |
+|          | Students: 12 | Students: 12 | Students: 14 | Students: 9  | Students: 11 |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P5       | Language     | Language     | Language     | Language     | Language     |
 |          | (D133)       | (D133)       | (D133)       | (D133)       | (D133)       |
-|          | Students: 7  | Students: 8  | Students: 17 | Students: 17 | Students: 9  |
+|          | Students: 4  | Students: 11 | Students: 10 | Students: 4  | Students: 4  |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P6       | Language     | Language     | Language     | Language     | ---          |
 |          | (D133)       | (D133)       | (D133)       | (D133)       |              |
-|          | Students: 28 | Students: 7  | Students: 28 | Students: 28 |              |
+|          | Students: 27 | Students: 8  | Students: 27 | Students: 27 |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 | P7       | -            | Language     | -            | -            | -            |
 |          |              | (D133)       |              |              |              |
-|          |              | Students: 28 |              |              |              |
+|          |              | Students: 27 |              |              |              |
 +----------+--------------+--------------+--------------+--------------+--------------+
 

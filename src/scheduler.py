@@ -378,6 +378,23 @@ class Scheduler(MasterSystem):
         print(tabulate(table_data, headers=headers, tablefmt="fancy_grid"))
 
     def print_teacher_timetable(self, teacher_name):
+        teacher_grids = getattr(self, "teacher_grids", {})
+
+        if teacher_name in teacher_grids:
+            print(f"\n--- TEACHER TIMETABLE: {teacher_name.upper()} ---")
+            headers = ["Period"] + self.days
+            table_data = []
+
+            for p in range(7):
+                row = [f"P{p+1}"]
+                for d in self.days:
+                    val = teacher_grids[teacher_name][d][p]
+                    row.append(val if val else "---")
+                table_data.append(row)
+
+            print(tabulate(table_data, headers=headers, tablefmt="fancy_grid"))
+            return
+
         sched = {d: [None] * self.period_counts[d] for d in self.days}
 
         teacher_sections = [

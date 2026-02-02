@@ -88,14 +88,32 @@ def options():
                 print("[Error] Could not load rooms/teachers JSON.")
                 continue
 
+            school.teacher_grids = import_teacher_timetables(
+                os.path.join(OUTPUT_DIR, "teacher_timetables.txt")
+            )
+
             school.sections = rebuild_sections_from_file(
                 os.path.join(OUTPUT_DIR, "roll_calls.txt"),
                 school.teachers,
                 school.rooms,
             )
 
-            t_name = input("Enter Teacher Name: ").strip()
-            school.print_teacher_timetable(t_name)
+            t_name_input = input("Enter Teacher Name: ").strip()
+
+            match = next(
+                (
+                    name
+                    for name in school.teacher_grids.keys()
+                    if name.lower().replace(".", "")
+                    == t_name_input.lower().replace(".", "")
+                ),
+                None,
+            )
+
+            if match:
+                school.print_teacher_timetable(match)
+            else:
+                print(f"[Error] No classes found for teacher: {t_name_input}")
 
         elif choice == "4":
             school = Scheduler()
@@ -130,7 +148,6 @@ def options():
         elif choice == "5":
             school = Scheduler()
             if not school.load_resources():
-                print("[Error] Could not load rooms/teachers JSON.")
                 continue
 
             print("\n[System] Importing all data...")
@@ -145,12 +162,12 @@ def options():
                 os.path.join(OUTPUT_DIR, "student_timetables.txt")
             )
 
-            teacher_grids = import_teacher_timetables(
+            school.teacher_grids = import_teacher_timetables(
                 os.path.join(OUTPUT_DIR, "teacher_timetables.txt")
             )
 
             print(
-                f"[Success] Imported {len(school.sections)} sections and {len(teacher_grids)} teacher schedules."
+                f"[Success] Imported {len(school.sections)} sections and {len(school.teacher_grids)} teacher schedules."
             )
 
         elif choice == "6":

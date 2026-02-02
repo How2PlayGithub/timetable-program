@@ -76,25 +76,53 @@ def import_teacher_timetables(file_path):
     teachers = {}
     current_teacher = None
     days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    current_p_idx = None
 
     with open(file_path, "r") as f:
-        content = f.read().split("=" * 30)
+        for line in f:
+            raw_line = line.strip()
 
-    for block in content:
-        lines = block.strip().split("\n")
-        if lines[0].startswith("INSTRUCTOR:"):
-            name = lines[0].split(":")[1].strip()
-            teachers[name] = {d: [None] * 7 for d in days}
+            if "INSTRUCTOR:" in raw_line:
+                current_teacher = raw_line.split(":")[1].strip()
+                teachers[current_teacher] = {d: [""] * 7 for d in days}
+                current_p_idx = None
+                continue
 
-            for line in lines:
-                if "|" in line and any(
-                    p in line for p in ["P1", "P2", "P3", "P4", "P5", "P6", "P7"]
-                ):
-                    parts = [p.strip() for p in line.split("|") if p.strip()]
-                    p_idx = int(parts[0][1:]) - 1
+            if current_teacher and "|" in raw_line:
+                if "Period" in raw_line or "+" in raw_line or "=" in raw_line:
+                    continue
+
+                pipe_content = raw_line.strip("|")
+                parts = [p.strip() for p in pipe_content.split("|")]
+
+                if not parts:
+                    continue
+
+                if parts[0].startswith("P"):
+                    try:
+                        current_p_idx = int(parts[0][1:]) - 1
+                        for i, day in enumerate(days):
+                            if i + 1 < len(parts):
+                                val = parts[i + 1]
+                                if val and val not in ["---", "-", "FREE", "None"]:
+                                    teachers[current_teacher][day][current_p_idx] = val
+                                else:
+                                    teachers[current_teacher][day][current_p_idx] = ""
+                    except (ValueError, IndexError):
+                        current_p_idx = None
+
+                elif current_p_idx is not None:
                     for i, day in enumerate(days):
-                        val = parts[i + 1]
-                        teachers[name][day][p_idx] = None if val == "---" else val
+                        if i + 1 < len(parts):
+                            val = parts[i + 1]
+                            if val and val not in ["---", "-", "FREE", "None"]:
+                                existing = teachers[current_teacher][day][current_p_idx]
+                                if existing:
+                                    teachers[current_teacher][day][current_p_idx] = (
+                                        existing + "\n" + val
+                                    )
+                                else:
+                                    teachers[current_teacher][day][current_p_idx] = val
     return teachers
 
 
