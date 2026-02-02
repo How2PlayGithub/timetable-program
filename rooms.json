@@ -1,10 +1,127 @@
 {
-    "R001": {
+    "D110": {
         "capacity": 28,
-        "type": "General"
+        "type": "General",
+        "preferred_subjects": [ ]
     },
-    "L001": {
+    "D108": {
         "capacity": 28,
-        "type": "Lab"
+        "type": "Art",
+        "preferred_subjects": ["Mixed Media"]
+    },
+    "D109": {
+        "capacity": 28,
+        "type": "Art",
+        "preferred_subjects": ["Painting"]
+    },
+    "D123": {
+        "capacity": 28,
+        "type": "Lab",
+        "preferred_subjects": ["Chemistry"]
+    },
+    "D124": {
+        "capacity": 28,
+        "type": "Lab",
+        "preferred_subjects": ["Chemistry", "Biology"]
+    },
+    "D125": {
+        "capacity": 28,
+        "type": "Lab",
+        "preferred_subjects": ["Biology"]
+    },
+    "D126": {
+        "capacity": 28,
+        "type": "Lab",
+        "preferred_subjects": ["Physics"]
+    },
+    "D127": {
+        "capacity": 28,
+        "type": "Lab",
+        "preferred_subjects": ["Physics"]
+    },
+    "D128": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": ["Maths"]
+    },
+    "D129": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": ["Literature"]
+    },
+    "D130": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D131": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D132": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": ["Literature"]
+    },
+    "D133": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": ["Language"]
+    },
+    "D135": {
+        "capacity": 28,
+        "type": "Drama",
+        "preferred_subjects": [ ]
+    },
+    "D204": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D205": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D203": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": ["Computer Science", "History"]
+    },
+    "D201": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D206": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D207": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D215": {
+        "capacity": 12,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D216": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": [ ]
+    },
+    "D217": {
+        "capacity": 28,
+        "type": "General",
+        "preferred_subjects": ["Music"]
+    },
+    "D001": {
+        "capacity": 28,
+        "type": "DT Room",
+        "preferred_subjects": ["Design Technology"]
     }
 }

@@ -45,9 +45,17 @@ class MasterSystem:
             try:
                 with open("rooms.json", "r") as f:
                     room_data = json.load(f)
+
                     self.rooms = [
-                        Room(k, v["type"], v["capacity"]) for k, v in room_data.items()
+                        Room(
+                            room_number,
+                            data["type"],
+                            data["capacity"],
+                            data.get("preferred_subjects", []),
+                        )
+                        for room_number, data in room_data.items()
                     ]
+
                 with open("teachers.json", "r") as f:
                     teacher_data = json.load(f)
                     self.teachers = [Instructor(k, v) for k, v in teacher_data.items()]
@@ -75,102 +83,211 @@ class Scheduler(MasterSystem):
 
     def _generate_all_patterns(self):
         patterns = []
-        rotation_p = []
-        for d in self.days:
-            if d != "Fri":
-                rotation_p.append((d, self.period_counts[d] - 1))
-        patterns.append(rotation_p)
+        for _ in range(500):
+            extended_p = []
+            for d in self.days:
+                if d == "Fri":
+                    continue
+                last_p = self.period_counts[d] - 1
+                extended_p.append((d, last_p))
+            patterns.append(extended_p)
 
-        for _ in range(100):
-            p = []
-            selected_days = random.sample(self.days, 5)
-            for d in selected_days:
-                possible = [
-                    i
-                    for i in range(self.period_counts[d])
-                    if not (d == "Tue" and i == 1) and not (d == "Fri" and i == 5)
-                ]
-                non_last = [i for i in possible if i < (self.period_counts[d] - 1)]
-                p.append((d, random.choice(non_last if non_last else possible)))
-            patterns.append(p)
+            standard_p = []
+            for d in self.days:
+                last_p = self.period_counts[d] - 1
+                possible = [i for i in range(last_p) if not (d == "Tue" and i == 1)]
+                standard_p.append((d, random.choice(possible)))
+            patterns.append(standard_p)
+
         return patterns
 
-    def solve(self, student_requests):
+    def solve(self, student_requests, max_attempts=200):
         print("\n" + "=" * 60 + "\n TIMETABLE GENERATOR STARTING\n" + "=" * 60)
+
+        self.student_schedules = {}
+        self.failed_requests = []
+        self.sections = []
 
         counts = {}
         for subs in student_requests.values():
             for s in subs:
                 counts[s] = counts.get(s, 0) + 1
 
-        self.sections = []
-        for sub, count in counts.items():
-            req_type = self.subject_requirements.get(sub, "General")
-            possible_rooms = [r for r in self.rooms if r.type == req_type]
-            possible_teachers = [t for t in self.teachers if sub in t.subjects]
+        total_students = len(student_requests)
 
-            if not possible_rooms or not possible_teachers:
-                print(
-                    f"[Warning] Missing resources for {sub}. Room/Teacher checks failed."
-                )
-                continue
+        divisor = 8 if total_students <= 120 else 12
 
-            num_sections = max(3, math.ceil(count / 15))
-            for i in range(1, num_sections + 1):
-                self.sections.append(
-                    Section(
-                        f"{sub[:3]}-{i}",
-                        sub,
-                        random.choice(possible_teachers),
-                        random.choice(possible_rooms),
+        section_plan = {
+            sub: max(2, math.ceil(count / divisor)) for sub, count in counts.items()
+        }
+
+        best = None
+
+        for attempt in range(1, max_attempts + 1):
+            self.patterns = self._generate_all_patterns()
+
+            self.sections = []
+            teacher_load = {}
+
+            for sub, count in counts.items():
+                possible_teachers = [t for t in self.teachers if sub in t.subjects]
+                if not possible_teachers:
+                    continue
+
+                preferred_rooms = [r for r in self.rooms if sub in r.preferred_subjects]
+                if preferred_rooms:
+                    selected_rooms_pool = preferred_rooms
+                else:
+                    req_type = self.subject_requirements.get(sub, "General")
+                    selected_rooms_pool = [r for r in self.rooms if r.type == req_type]
+
+                if not selected_rooms_pool:
+                    continue
+
+                num_sections = section_plan.get(sub, 2)
+
+                for i in range(1, num_sections + 1):
+                    possible_teachers_sorted = sorted(
+                        possible_teachers,
+                        key=lambda t: teacher_load.get((t.name, sub), 0),
                     )
-                )
+                    selected_teacher = possible_teachers_sorted[0]
+                    teacher_load[(selected_teacher.name, sub)] = (
+                        teacher_load.get((selected_teacher.name, sub), 0) + 1
+                    )
 
-        if not self.sections:
-            print("[Error] No sections created. Termination.")
-            return
+                    selected_room = random.choice(selected_rooms_pool)
 
-        slot_usage = {}
-        teacher_usage = {}
-        room_usage = {}
+                    sub_parts = sub.split()
+                    prefix = (
+                        (sub_parts[0][:3] + sub_parts[1][:2])
+                        if len(sub_parts) > 1
+                        else sub[:5]
+                    )
+                    section_id = f"{prefix}-{i}"
 
-        for sec in self.sections:
-            best_pattern = None
-            min_cost = float("inf")
+                    self.sections.append(
+                        Section(section_id, sub, selected_teacher, selected_room)
+                    )
 
-            random.shuffle(self.patterns)
-            for p in self.patterns:
-                cost = 0
-                for slot in p:
-                    cost += slot_usage.get(slot, 0) * 50
-                    if (sec.instructor.name, slot) in teacher_usage:
-                        cost += 100000
-                    if (sec.room.number, slot) in room_usage:
-                        cost += 100000
+            if not self.sections:
+                print("[Error] No sections created. Termination.")
+                return
 
-                if cost < min_cost:
-                    min_cost = cost
-                    best_pattern = p
+            slot_usage = {}
+            teacher_usage = {}
+            room_usage = {}
+            pattern_usage = {}
 
-            sec.slots = best_pattern
-            for slot in best_pattern:
-                slot_usage[slot] = slot_usage.get(slot, 0) + 1
-                teacher_usage[(sec.instructor.name, slot)] = True
-                room_usage[(sec.room.number, slot)] = True
+            from collections import defaultdict
 
-        self._assign_students(student_requests)
+            sub_to_sections = defaultdict(list)
+            for sec in self.sections:
+                sub_to_sections[sec.subject].append(sec)
+
+            for subject, sections in sub_to_sections.items():
+                for sec in sections:
+                    best_pattern = None
+                    min_cost = float("inf")
+
+                    random.shuffle(self.patterns)
+                    for p in self.patterns:
+                        cost = 0
+                        p_key = tuple(p)
+                        reuse = pattern_usage.get(p_key, 0)
+
+                        is_extended = any(d == "Mon" and s == 5 for d, s in p)
+
+                        for slot in p:
+                            cost += slot_usage.get(slot, 0) * 1000
+
+                            if (sec.instructor.name, slot) in teacher_usage:
+                                cost += 100000
+                            if (sec.room.number, slot) in room_usage:
+                                cost += 100000
+
+                        cost += reuse * 2500
+                        if len(sections) == 1:
+                            cost += reuse * 9000
+
+                        if len(sections) == 1 and is_extended:
+                            cost += 5000
+
+                        if cost < min_cost:
+                            min_cost = cost
+                            best_pattern = p
+
+                    sec.slots = best_pattern
+
+                    for slot in best_pattern:
+                        slot_usage[slot] = slot_usage.get(slot, 0) + 1
+                        teacher_usage[(sec.instructor.name, slot)] = True
+                        room_usage[(sec.room.number, slot)] = True
+
+                    b_key = tuple(best_pattern)
+                    pattern_usage[b_key] = pattern_usage.get(b_key, 0) + 1
+
+            self._assign_students(student_requests)
+
+            failed = len(self.failed_requests)
+            if failed == 0:
+                if attempt > 1:
+                    print(
+                        f"[System] Solved with 100% success on attempt {attempt}/{max_attempts}."
+                    )
+                return
+
+            if best is None or failed < best["failed_count"]:
+                best = {
+                    "failed_count": failed,
+                    "failed_requests": copy.deepcopy(self.failed_requests),
+                    "student_schedules": copy.deepcopy(self.student_schedules),
+                    "sections": copy.deepcopy(self.sections),
+                    "section_plan": copy.deepcopy(section_plan),
+                }
+
+            bottleneck_counts = {}
+            for fr in self.failed_requests:
+                sub = fr.get("failed_at")
+                bottleneck_counts[sub] = bottleneck_counts.get(sub, 0) + 1
+
+            worst = sorted(bottleneck_counts.items(), key=lambda x: x[1], reverse=True)[
+                :3
+            ]
+            for sub, _cnt in worst:
+                if sub in counts:
+                    current = section_plan.get(sub, 2)
+                    cap = max(6, math.ceil(counts[sub] / 3) + 6)
+                    if current < cap:
+                        section_plan[sub] = current + 1
+
+        if best:
+            self.failed_requests = best["failed_requests"]
+            self.student_schedules = best["student_schedules"]
+            self.sections = best["sections"]
+            print(
+                f"[Warning] Could not reach 100% after {max_attempts} attempts. "
+                f"Best attempt still has {best['failed_count']} failures."
+            )
 
     def _assign_students(self, student_requests):
         self.failed_requests = []
-        sorted_names = sorted(
-            student_requests.keys(),
-            key=lambda n: sum(
-                1
-                for s in student_requests[n]
-                if self.subject_requirements.get(s) == "Lab"
-            ),
-            reverse=True,
-        )
+
+        for sec in self.sections:
+            sec.students = []
+
+        all_subjects = set()
+        for subs in student_requests.values():
+            for s in subs:
+                all_subjects.add(s)
+
+        subject_difficulty = {}
+        for sub in all_subjects:
+            sections_available = [s for s in self.sections if s.subject == sub]
+            count = len(sections_available)
+            subject_difficulty[sub] = 100 / count if count > 0 else 999
+
+        sorted_names = sorted(student_requests.keys())
 
         for name in sorted_names:
             self.student_schedules[name] = {
@@ -181,9 +298,10 @@ class Scheduler(MasterSystem):
 
             requested = sorted(
                 list(student_requests[name]),
-                key=lambda s: self.subject_requirements.get(s) != "General",
+                key=lambda s: subject_difficulty.get(s, 0),
                 reverse=True,
             )
+
             success, failed_sub = self._backtrack(name, requested, 0)
 
             if not success:
@@ -195,6 +313,7 @@ class Scheduler(MasterSystem):
     def _backtrack(self, name, subjects, idx):
         if idx == len(subjects):
             return True, None
+
         sub = subjects[idx]
         potential = [s for s in self.sections if s.subject == sub]
         random.shuffle(potential)
@@ -224,6 +343,7 @@ class Scheduler(MasterSystem):
                         self.student_schedules[name][d][
                             p
                         ] = f"{sub} ({sec.room.number})"
+
                     sec.students.append(name)
 
                     success, deeper_fail = self._backtrack(name, subjects, idx + 1)
@@ -344,6 +464,7 @@ class Scheduler(MasterSystem):
                     table_data.append(row)
 
                 f.write(tabulate(table_data, headers=headers, tablefmt="grid") + "\n\n")
+
         print(
             "[System] Reports generated: roll_calls.txt, teacher_timetables.txt, and student_timetables.txt"
         )

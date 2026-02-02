@@ -1,8 +1,9 @@
 class Room:
-    def __init__(self, number, r_type, capacity):
+    def __init__(self, number, r_type, capacity, preferred_subjects=None):
         self.number = number
         self.type = r_type
         self.capacity = capacity
+        self.preferred_subjects = preferred_subjects if preferred_subjects else []
 
     def __str__(self):
         return self.number
